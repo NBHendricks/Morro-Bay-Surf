@@ -7,14 +7,9 @@ from zoneinfo import ZoneInfo
 
 PACIFIC = ZoneInfo("America/Los_Angeles")
 
-# Approximate Morro Bay location used for the NWS hourly forecast.
 MORRO_LAT = 35.3658
 MORRO_LON = -120.8499
 
-
-# ---------------------------------------------------------
-# BASIC INTERNET DOWNLOAD FUNCTIONS
-# ---------------------------------------------------------
 
 def download_text(url):
     request = urllib.request.Request(
@@ -41,11 +36,8 @@ def download_json(url):
     )
 
 
-# ---------------------------------------------------------
-# NDBC BUOY DATA
-# ---------------------------------------------------------
-
 def parse_ndbc(station):
+
     url = (
         "https://www.ndbc.noaa.gov/"
         f"data/realtime2/{station}.txt"
@@ -130,7 +122,7 @@ def celsius_to_fahrenheit(value):
 
 
 # ---------------------------------------------------------
-# DIABLO CANYON BUOY
+# DIABLO CANYON
 # NDBC 46215
 # ---------------------------------------------------------
 
@@ -154,19 +146,6 @@ def diablo_data():
         row.get("WTMP")
     )
 
-    wind_speed_ms = number(
-        row.get("WSPD")
-    )
-
-    wind_gust_ms = number(
-        row.get("GST")
-    )
-
-    wind_direction = number(
-        row.get("WDIR")
-    )
-
-
     return {
 
         "station": "46215",
@@ -187,38 +166,19 @@ def diablo_data():
         "water_temp_f":
             celsius_to_fahrenheit(
                 water_c
-            ),
-
-        "wind_mph":
-            round(
-                wind_speed_ms * 2.23694,
-                1
             )
-            if wind_speed_ms is not None
-            else None,
-
-        "wind_gust_mph":
-            round(
-                wind_gust_ms * 2.23694,
-                1
-            )
-            if wind_gust_ms is not None
-            else None,
-
-        "wind_direction_deg":
-            wind_direction
 
     }
 
 
 # ---------------------------------------------------------
-# CAPE SAN MARTIN OFFSHORE BUOY
-# NDBC 46028
+# SANTA MARIA OFFSHORE BUOY
+# NDBC 46011
 # ---------------------------------------------------------
 
 def offshore_data():
 
-    row = parse_ndbc("46028")
+    row = parse_ndbc("46011")
 
     wave_m = number(
         row.get("WVHT")
@@ -232,12 +192,15 @@ def offshore_data():
         row.get("MWD")
     )
 
+    water_c = number(
+        row.get("WTMP")
+    )
+
     return {
 
-        "station": "46028",
+        "station": "46011",
 
-        "name":
-            "Cape San Martin",
+        "name": "Santa Maria Offshore",
 
         "wave_height_ft":
             meters_to_feet(
@@ -248,13 +211,18 @@ def offshore_data():
             period,
 
         "direction_deg":
-            direction
+            direction,
+
+        "water_temp_f":
+            celsius_to_fahrenheit(
+                water_c
+            )
 
     }
 
 
 # ---------------------------------------------------------
-# NOAA TIDE API
+# NOAA TIDES
 # PORT SAN LUIS 9412110
 # ---------------------------------------------------------
 
@@ -308,13 +276,6 @@ def tide_request(
     return download_json(url)
 
 
-# ---------------------------------------------------------
-# TIDE CURVE
-#
-# NOAA returns many points throughout the day.
-# These points will be used to draw the graph.
-# ---------------------------------------------------------
-
 def tide_curve(today):
 
     date_string = (
@@ -326,11 +287,9 @@ def tide_curve(today):
         "6"
     )
 
-    predictions = (
-        result.get(
-            "predictions",
-            []
-        )
+    predictions = result.get(
+        "predictions",
+        []
     )
 
     curve = []
@@ -369,10 +328,6 @@ def tide_curve(today):
     return curve
 
 
-# ---------------------------------------------------------
-# HIGH / LOW TIDE TABLE
-# ---------------------------------------------------------
-
 def tide_highs_lows(today):
 
     date_string = (
@@ -384,11 +339,9 @@ def tide_highs_lows(today):
         "hilo"
     )
 
-    predictions = (
-        result.get(
-            "predictions",
-            []
-        )
+    predictions = result.get(
+        "predictions",
+        []
     )
 
     tides = []
@@ -433,8 +386,8 @@ def tide_highs_lows(today):
 
 
 # ---------------------------------------------------------
+# MORRO BAY WIND FORECAST
 # NATIONAL WEATHER SERVICE
-# MORRO BAY HOURLY FORECAST
 # ---------------------------------------------------------
 
 def morro_wind_forecast(now):
@@ -474,7 +427,6 @@ def morro_wind_forecast(now):
 
     forecast = []
 
-
     for period in periods:
 
         start = datetime.fromisoformat(
@@ -487,28 +439,15 @@ def morro_wind_forecast(now):
             )
         )
 
-
-        # Only keep roughly the next 30 hours.
         difference = (
             local_start - now
         ).total_seconds() / 3600
 
-
         if difference < -1:
             continue
 
-
         if difference > 30:
             break
-
-
-        wind_speed_text = (
-            period.get(
-                "windSpeed",
-                ""
-            )
-        )
-
 
         forecast.append({
 
@@ -531,7 +470,10 @@ def morro_wind_forecast(now):
                 ),
 
             "wind_speed":
-                wind_speed_text,
+                period.get(
+                    "windSpeed",
+                    ""
+                ),
 
             "wind_direction":
                 period.get(
@@ -545,12 +487,11 @@ def morro_wind_forecast(now):
 
         })
 
-
     return forecast
 
 
 # ---------------------------------------------------------
-# MAIN PROGRAM
+# MAIN
 # ---------------------------------------------------------
 
 def main():
@@ -558,7 +499,6 @@ def main():
     now = datetime.now(
         PACIFIC
     )
-
 
     data = {
 
@@ -593,8 +533,6 @@ def main():
     }
 
 
-    # DIABLO CANYON
-
     try:
 
         data["diablo"] = (
@@ -609,8 +547,6 @@ def main():
         )
 
 
-    # CAPE SAN MARTIN
-
     try:
 
         data["offshore"] = (
@@ -620,12 +556,10 @@ def main():
     except Exception as error:
 
         print(
-            "Cape San Martin error:",
+            "Santa Maria offshore error:",
             error
         )
 
-
-    # TIDE GRAPH
 
     try:
 
@@ -641,8 +575,6 @@ def main():
         )
 
 
-    # HIGH / LOW TIDES
-
     try:
 
         data["tides"] = (
@@ -656,8 +588,6 @@ def main():
             error
         )
 
-
-    # MORRO BAY WIND FORECAST
 
     try:
 
@@ -674,8 +604,6 @@ def main():
             error
         )
 
-
-    # SAVE EVERYTHING TO data.json
 
     with open(
         "data.json",
