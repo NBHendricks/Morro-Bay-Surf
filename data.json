@@ -1,0 +1,1526 @@
+{
+  "location": "Morro Bay, California",
+  "date_display": "Sunday, September 13, 2026",
+  "updated_display": "8:08 PM PDT",
+  "diablo": {
+    "station": "46215",
+    "name": "Diablo Canyon",
+    "wave_height_ft": 5.2,
+    "period_sec": 8.0,
+    "direction_deg": 286.0,
+    "water_temp_f": 63.0,
+    "wind_mph": null,
+    "wind_gust_mph": null,
+    "wind_direction_deg": null
+  },
+  "offshore": {
+    "station": "46028",
+    "name": "Cape San Martin",
+    "wave_height_ft": null,
+    "period_sec": null,
+    "direction_deg": null
+  },
+  "tide_curve": [
+    {
+      "time": "12:00 AM",
+      "hour_decimal": 0.0,
+      "height_ft": 4.83
+    },
+    {
+      "time": "12:06 AM",
+      "hour_decimal": 0.1,
+      "height_ft": 4.82
+    },
+    {
+      "time": "12:12 AM",
+      "hour_decimal": 0.2,
+      "height_ft": 4.8
+    },
+    {
+      "time": "12:18 AM",
+      "hour_decimal": 0.3,
+      "height_ft": 4.77
+    },
+    {
+      "time": "12:24 AM",
+      "hour_decimal": 0.4,
+      "height_ft": 4.74
+    },
+    {
+      "time": "12:30 AM",
+      "hour_decimal": 0.5,
+      "height_ft": 4.7
+    },
+    {
+      "time": "12:36 AM",
+      "hour_decimal": 0.6,
+      "height_ft": 4.66
+    },
+    {
+      "time": "12:42 AM",
+      "hour_decimal": 0.7,
+      "height_ft": 4.62
+    },
+    {
+      "time": "12:48 AM",
+      "hour_decimal": 0.8,
+      "height_ft": 4.57
+    },
+    {
+      "time": "12:54 AM",
+      "hour_decimal": 0.9,
+      "height_ft": 4.51
+    },
+    {
+      "time": "1:00 AM",
+      "hour_decimal": 1.0,
+      "height_ft": 4.45
+    },
+    {
+      "time": "1:06 AM",
+      "hour_decimal": 1.1,
+      "height_ft": 4.39
+    },
+    {
+      "time": "1:12 AM",
+      "hour_decimal": 1.2,
+      "height_ft": 4.32
+    },
+    {
+      "time": "1:18 AM",
+      "hour_decimal": 1.3,
+      "height_ft": 4.25
+    },
+    {
+      "time": "1:24 AM",
+      "hour_decimal": 1.4,
+      "height_ft": 4.18
+    },
+    {
+      "time": "1:30 AM",
+      "hour_decimal": 1.5,
+      "height_ft": 4.1
+    },
+    {
+      "time": "1:36 AM",
+      "hour_decimal": 1.6,
+      "height_ft": 4.02
+    },
+    {
+      "time": "1:42 AM",
+      "hour_decimal": 1.7,
+      "height_ft": 3.94
+    },
+    {
+      "time": "1:48 AM",
+      "hour_decimal": 1.8,
+      "height_ft": 3.86
+    },
+    {
+      "time": "1:54 AM",
+      "hour_decimal": 1.9,
+      "height_ft": 3.77
+    },
+    {
+      "time": "2:00 AM",
+      "hour_decimal": 2.0,
+      "height_ft": 3.68
+    },
+    {
+      "time": "2:06 AM",
+      "hour_decimal": 2.1,
+      "height_ft": 3.59
+    },
+    {
+      "time": "2:12 AM",
+      "hour_decimal": 2.2,
+      "height_ft": 3.5
+    },
+    {
+      "time": "2:18 AM",
+      "hour_decimal": 2.3,
+      "height_ft": 3.4
+    },
+    {
+      "time": "2:24 AM",
+      "hour_decimal": 2.4,
+      "height_ft": 3.31
+    },
+    {
+      "time": "2:30 AM",
+      "hour_decimal": 2.5,
+      "height_ft": 3.21
+    },
+    {
+      "time": "2:36 AM",
+      "hour_decimal": 2.6,
+      "height_ft": 3.11
+    },
+    {
+      "time": "2:42 AM",
+      "hour_decimal": 2.7,
+      "height_ft": 3.02
+    },
+    {
+      "time": "2:48 AM",
+      "hour_decimal": 2.8,
+      "height_ft": 2.92
+    },
+    {
+      "time": "2:54 AM",
+      "hour_decimal": 2.9,
+      "height_ft": 2.82
+    },
+    {
+      "time": "3:00 AM",
+      "hour_decimal": 3.0,
+      "height_ft": 2.73
+    },
+    {
+      "time": "3:06 AM",
+      "hour_decimal": 3.1,
+      "height_ft": 2.63
+    },
+    {
+      "time": "3:12 AM",
+      "hour_decimal": 3.2,
+      "height_ft": 2.54
+    },
+    {
+      "time": "3:18 AM",
+      "hour_decimal": 3.3,
+      "height_ft": 2.45
+    },
+    {
+      "time": "3:24 AM",
+      "hour_decimal": 3.4,
+      "height_ft": 2.36
+    },
+    {
+      "time": "3:30 AM",
+      "hour_decimal": 3.5,
+      "height_ft": 2.27
+    },
+    {
+      "time": "3:36 AM",
+      "hour_decimal": 3.6,
+      "height_ft": 2.18
+    },
+    {
+      "time": "3:42 AM",
+      "hour_decimal": 3.7,
+      "height_ft": 2.1
+    },
+    {
+      "time": "3:48 AM",
+      "hour_decimal": 3.8,
+      "height_ft": 2.02
+    },
+    {
+      "time": "3:54 AM",
+      "hour_decimal": 3.9,
+      "height_ft": 1.94
+    },
+    {
+      "time": "4:00 AM",
+      "hour_decimal": 4.0,
+      "height_ft": 1.87
+    },
+    {
+      "time": "4:06 AM",
+      "hour_decimal": 4.1,
+      "height_ft": 1.79
+    },
+    {
+      "time": "4:12 AM",
+      "hour_decimal": 4.2,
+      "height_ft": 1.73
+    },
+    {
+      "time": "4:18 AM",
+      "hour_decimal": 4.3,
+      "height_ft": 1.66
+    },
+    {
+      "time": "4:24 AM",
+      "hour_decimal": 4.4,
+      "height_ft": 1.6
+    },
+    {
+      "time": "4:30 AM",
+      "hour_decimal": 4.5,
+      "height_ft": 1.54
+    },
+    {
+      "time": "4:36 AM",
+      "hour_decimal": 4.6,
+      "height_ft": 1.49
+    },
+    {
+      "time": "4:42 AM",
+      "hour_decimal": 4.7,
+      "height_ft": 1.44
+    },
+    {
+      "time": "4:48 AM",
+      "hour_decimal": 4.8,
+      "height_ft": 1.39
+    },
+    {
+      "time": "4:54 AM",
+      "hour_decimal": 4.9,
+      "height_ft": 1.35
+    },
+    {
+      "time": "5:00 AM",
+      "hour_decimal": 5.0,
+      "height_ft": 1.32
+    },
+    {
+      "time": "5:06 AM",
+      "hour_decimal": 5.1,
+      "height_ft": 1.28
+    },
+    {
+      "time": "5:12 AM",
+      "hour_decimal": 5.2,
+      "height_ft": 1.26
+    },
+    {
+      "time": "5:18 AM",
+      "hour_decimal": 5.3,
+      "height_ft": 1.24
+    },
+    {
+      "time": "5:24 AM",
+      "hour_decimal": 5.4,
+      "height_ft": 1.22
+    },
+    {
+      "time": "5:30 AM",
+      "hour_decimal": 5.5,
+      "height_ft": 1.21
+    },
+    {
+      "time": "5:36 AM",
+      "hour_decimal": 5.6,
+      "height_ft": 1.2
+    },
+    {
+      "time": "5:42 AM",
+      "hour_decimal": 5.7,
+      "height_ft": 1.2
+    },
+    {
+      "time": "5:48 AM",
+      "hour_decimal": 5.8,
+      "height_ft": 1.2
+    },
+    {
+      "time": "5:54 AM",
+      "hour_decimal": 5.9,
+      "height_ft": 1.21
+    },
+    {
+      "time": "6:00 AM",
+      "hour_decimal": 6.0,
+      "height_ft": 1.22
+    },
+    {
+      "time": "6:06 AM",
+      "hour_decimal": 6.1,
+      "height_ft": 1.24
+    },
+    {
+      "time": "6:12 AM",
+      "hour_decimal": 6.2,
+      "height_ft": 1.27
+    },
+    {
+      "time": "6:18 AM",
+      "hour_decimal": 6.3,
+      "height_ft": 1.29
+    },
+    {
+      "time": "6:24 AM",
+      "hour_decimal": 6.4,
+      "height_ft": 1.33
+    },
+    {
+      "time": "6:30 AM",
+      "hour_decimal": 6.5,
+      "height_ft": 1.37
+    },
+    {
+      "time": "6:36 AM",
+      "hour_decimal": 6.6,
+      "height_ft": 1.41
+    },
+    {
+      "time": "6:42 AM",
+      "hour_decimal": 6.7,
+      "height_ft": 1.46
+    },
+    {
+      "time": "6:48 AM",
+      "hour_decimal": 6.8,
+      "height_ft": 1.51
+    },
+    {
+      "time": "6:54 AM",
+      "hour_decimal": 6.9,
+      "height_ft": 1.57
+    },
+    {
+      "time": "7:00 AM",
+      "hour_decimal": 7.0,
+      "height_ft": 1.63
+    },
+    {
+      "time": "7:06 AM",
+      "hour_decimal": 7.1,
+      "height_ft": 1.7
+    },
+    {
+      "time": "7:12 AM",
+      "hour_decimal": 7.2,
+      "height_ft": 1.77
+    },
+    {
+      "time": "7:18 AM",
+      "hour_decimal": 7.3,
+      "height_ft": 1.84
+    },
+    {
+      "time": "7:24 AM",
+      "hour_decimal": 7.4,
+      "height_ft": 1.92
+    },
+    {
+      "time": "7:30 AM",
+      "hour_decimal": 7.5,
+      "height_ft": 2.0
+    },
+    {
+      "time": "7:36 AM",
+      "hour_decimal": 7.6,
+      "height_ft": 2.09
+    },
+    {
+      "time": "7:42 AM",
+      "hour_decimal": 7.7,
+      "height_ft": 2.18
+    },
+    {
+      "time": "7:48 AM",
+      "hour_decimal": 7.8,
+      "height_ft": 2.27
+    },
+    {
+      "time": "7:54 AM",
+      "hour_decimal": 7.9,
+      "height_ft": 2.37
+    },
+    {
+      "time": "8:00 AM",
+      "hour_decimal": 8.0,
+      "height_ft": 2.46
+    },
+    {
+      "time": "8:06 AM",
+      "hour_decimal": 8.1,
+      "height_ft": 2.56
+    },
+    {
+      "time": "8:12 AM",
+      "hour_decimal": 8.2,
+      "height_ft": 2.67
+    },
+    {
+      "time": "8:18 AM",
+      "hour_decimal": 8.3,
+      "height_ft": 2.77
+    },
+    {
+      "time": "8:24 AM",
+      "hour_decimal": 8.4,
+      "height_ft": 2.87
+    },
+    {
+      "time": "8:30 AM",
+      "hour_decimal": 8.5,
+      "height_ft": 2.98
+    },
+    {
+      "time": "8:36 AM",
+      "hour_decimal": 8.6,
+      "height_ft": 3.09
+    },
+    {
+      "time": "8:42 AM",
+      "hour_decimal": 8.7,
+      "height_ft": 3.19
+    },
+    {
+      "time": "8:48 AM",
+      "hour_decimal": 8.8,
+      "height_ft": 3.3
+    },
+    {
+      "time": "8:54 AM",
+      "hour_decimal": 8.9,
+      "height_ft": 3.41
+    },
+    {
+      "time": "9:00 AM",
+      "hour_decimal": 9.0,
+      "height_ft": 3.52
+    },
+    {
+      "time": "9:06 AM",
+      "hour_decimal": 9.1,
+      "height_ft": 3.63
+    },
+    {
+      "time": "9:12 AM",
+      "hour_decimal": 9.2,
+      "height_ft": 3.73
+    },
+    {
+      "time": "9:18 AM",
+      "hour_decimal": 9.3,
+      "height_ft": 3.84
+    },
+    {
+      "time": "9:24 AM",
+      "hour_decimal": 9.4,
+      "height_ft": 3.95
+    },
+    {
+      "time": "9:30 AM",
+      "hour_decimal": 9.5,
+      "height_ft": 4.05
+    },
+    {
+      "time": "9:36 AM",
+      "hour_decimal": 9.6,
+      "height_ft": 4.15
+    },
+    {
+      "time": "9:42 AM",
+      "hour_decimal": 9.7,
+      "height_ft": 4.25
+    },
+    {
+      "time": "9:48 AM",
+      "hour_decimal": 9.8,
+      "height_ft": 4.34
+    },
+    {
+      "time": "9:54 AM",
+      "hour_decimal": 9.9,
+      "height_ft": 4.44
+    },
+    {
+      "time": "10:00 AM",
+      "hour_decimal": 10.0,
+      "height_ft": 4.53
+    },
+    {
+      "time": "10:06 AM",
+      "hour_decimal": 10.1,
+      "height_ft": 4.62
+    },
+    {
+      "time": "10:12 AM",
+      "hour_decimal": 10.2,
+      "height_ft": 4.7
+    },
+    {
+      "time": "10:18 AM",
+      "hour_decimal": 10.3,
+      "height_ft": 4.78
+    },
+    {
+      "time": "10:24 AM",
+      "hour_decimal": 10.4,
+      "height_ft": 4.86
+    },
+    {
+      "time": "10:30 AM",
+      "hour_decimal": 10.5,
+      "height_ft": 4.93
+    },
+    {
+      "time": "10:36 AM",
+      "hour_decimal": 10.6,
+      "height_ft": 5.0
+    },
+    {
+      "time": "10:42 AM",
+      "hour_decimal": 10.7,
+      "height_ft": 5.07
+    },
+    {
+      "time": "10:48 AM",
+      "hour_decimal": 10.8,
+      "height_ft": 5.13
+    },
+    {
+      "time": "10:54 AM",
+      "hour_decimal": 10.9,
+      "height_ft": 5.18
+    },
+    {
+      "time": "11:00 AM",
+      "hour_decimal": 11.0,
+      "height_ft": 5.23
+    },
+    {
+      "time": "11:06 AM",
+      "hour_decimal": 11.1,
+      "height_ft": 5.28
+    },
+    {
+      "time": "11:12 AM",
+      "hour_decimal": 11.2,
+      "height_ft": 5.32
+    },
+    {
+      "time": "11:18 AM",
+      "hour_decimal": 11.3,
+      "height_ft": 5.36
+    },
+    {
+      "time": "11:24 AM",
+      "hour_decimal": 11.4,
+      "height_ft": 5.39
+    },
+    {
+      "time": "11:30 AM",
+      "hour_decimal": 11.5,
+      "height_ft": 5.41
+    },
+    {
+      "time": "11:36 AM",
+      "hour_decimal": 11.6,
+      "height_ft": 5.43
+    },
+    {
+      "time": "11:42 AM",
+      "hour_decimal": 11.7,
+      "height_ft": 5.45
+    },
+    {
+      "time": "11:48 AM",
+      "hour_decimal": 11.8,
+      "height_ft": 5.45
+    },
+    {
+      "time": "11:54 AM",
+      "hour_decimal": 11.9,
+      "height_ft": 5.46
+    },
+    {
+      "time": "12:00 PM",
+      "hour_decimal": 12.0,
+      "height_ft": 5.46
+    },
+    {
+      "time": "12:06 PM",
+      "hour_decimal": 12.1,
+      "height_ft": 5.45
+    },
+    {
+      "time": "12:12 PM",
+      "hour_decimal": 12.2,
+      "height_ft": 5.43
+    },
+    {
+      "time": "12:18 PM",
+      "hour_decimal": 12.3,
+      "height_ft": 5.42
+    },
+    {
+      "time": "12:24 PM",
+      "hour_decimal": 12.4,
+      "height_ft": 5.39
+    },
+    {
+      "time": "12:30 PM",
+      "hour_decimal": 12.5,
+      "height_ft": 5.36
+    },
+    {
+      "time": "12:36 PM",
+      "hour_decimal": 12.6,
+      "height_ft": 5.33
+    },
+    {
+      "time": "12:42 PM",
+      "hour_decimal": 12.7,
+      "height_ft": 5.29
+    },
+    {
+      "time": "12:48 PM",
+      "hour_decimal": 12.8,
+      "height_ft": 5.24
+    },
+    {
+      "time": "12:54 PM",
+      "hour_decimal": 12.9,
+      "height_ft": 5.19
+    },
+    {
+      "time": "1:00 PM",
+      "hour_decimal": 13.0,
+      "height_ft": 5.14
+    },
+    {
+      "time": "1:06 PM",
+      "hour_decimal": 13.1,
+      "height_ft": 5.08
+    },
+    {
+      "time": "1:12 PM",
+      "hour_decimal": 13.2,
+      "height_ft": 5.01
+    },
+    {
+      "time": "1:18 PM",
+      "hour_decimal": 13.3,
+      "height_ft": 4.94
+    },
+    {
+      "time": "1:24 PM",
+      "hour_decimal": 13.4,
+      "height_ft": 4.87
+    },
+    {
+      "time": "1:30 PM",
+      "hour_decimal": 13.5,
+      "height_ft": 4.79
+    },
+    {
+      "time": "1:36 PM",
+      "hour_decimal": 13.6,
+      "height_ft": 4.71
+    },
+    {
+      "time": "1:42 PM",
+      "hour_decimal": 13.7,
+      "height_ft": 4.62
+    },
+    {
+      "time": "1:48 PM",
+      "hour_decimal": 13.8,
+      "height_ft": 4.54
+    },
+    {
+      "time": "1:54 PM",
+      "hour_decimal": 13.9,
+      "height_ft": 4.44
+    },
+    {
+      "time": "2:00 PM",
+      "hour_decimal": 14.0,
+      "height_ft": 4.35
+    },
+    {
+      "time": "2:06 PM",
+      "hour_decimal": 14.1,
+      "height_ft": 4.25
+    },
+    {
+      "time": "2:12 PM",
+      "hour_decimal": 14.2,
+      "height_ft": 4.15
+    },
+    {
+      "time": "2:18 PM",
+      "hour_decimal": 14.3,
+      "height_ft": 4.04
+    },
+    {
+      "time": "2:24 PM",
+      "hour_decimal": 14.4,
+      "height_ft": 3.94
+    },
+    {
+      "time": "2:30 PM",
+      "hour_decimal": 14.5,
+      "height_ft": 3.83
+    },
+    {
+      "time": "2:36 PM",
+      "hour_decimal": 14.6,
+      "height_ft": 3.72
+    },
+    {
+      "time": "2:42 PM",
+      "hour_decimal": 14.7,
+      "height_ft": 3.61
+    },
+    {
+      "time": "2:48 PM",
+      "hour_decimal": 14.8,
+      "height_ft": 3.5
+    },
+    {
+      "time": "2:54 PM",
+      "hour_decimal": 14.9,
+      "height_ft": 3.38
+    },
+    {
+      "time": "3:00 PM",
+      "hour_decimal": 15.0,
+      "height_ft": 3.27
+    },
+    {
+      "time": "3:06 PM",
+      "hour_decimal": 15.1,
+      "height_ft": 3.15
+    },
+    {
+      "time": "3:12 PM",
+      "hour_decimal": 15.2,
+      "height_ft": 3.04
+    },
+    {
+      "time": "3:18 PM",
+      "hour_decimal": 15.3,
+      "height_ft": 2.93
+    },
+    {
+      "time": "3:24 PM",
+      "hour_decimal": 15.4,
+      "height_ft": 2.81
+    },
+    {
+      "time": "3:30 PM",
+      "hour_decimal": 15.5,
+      "height_ft": 2.7
+    },
+    {
+      "time": "3:36 PM",
+      "hour_decimal": 15.6,
+      "height_ft": 2.59
+    },
+    {
+      "time": "3:42 PM",
+      "hour_decimal": 15.7,
+      "height_ft": 2.48
+    },
+    {
+      "time": "3:48 PM",
+      "hour_decimal": 15.8,
+      "height_ft": 2.37
+    },
+    {
+      "time": "3:54 PM",
+      "hour_decimal": 15.9,
+      "height_ft": 2.26
+    },
+    {
+      "time": "4:00 PM",
+      "hour_decimal": 16.0,
+      "height_ft": 2.15
+    },
+    {
+      "time": "4:06 PM",
+      "hour_decimal": 16.1,
+      "height_ft": 2.05
+    },
+    {
+      "time": "4:12 PM",
+      "hour_decimal": 16.2,
+      "height_ft": 1.95
+    },
+    {
+      "time": "4:18 PM",
+      "hour_decimal": 16.3,
+      "height_ft": 1.85
+    },
+    {
+      "time": "4:24 PM",
+      "hour_decimal": 16.4,
+      "height_ft": 1.76
+    },
+    {
+      "time": "4:30 PM",
+      "hour_decimal": 16.5,
+      "height_ft": 1.66
+    },
+    {
+      "time": "4:36 PM",
+      "hour_decimal": 16.6,
+      "height_ft": 1.57
+    },
+    {
+      "time": "4:42 PM",
+      "hour_decimal": 16.7,
+      "height_ft": 1.49
+    },
+    {
+      "time": "4:48 PM",
+      "hour_decimal": 16.8,
+      "height_ft": 1.41
+    },
+    {
+      "time": "4:54 PM",
+      "hour_decimal": 16.9,
+      "height_ft": 1.33
+    },
+    {
+      "time": "5:00 PM",
+      "hour_decimal": 17.0,
+      "height_ft": 1.25
+    },
+    {
+      "time": "5:06 PM",
+      "hour_decimal": 17.1,
+      "height_ft": 1.18
+    },
+    {
+      "time": "5:12 PM",
+      "hour_decimal": 17.2,
+      "height_ft": 1.12
+    },
+    {
+      "time": "5:18 PM",
+      "hour_decimal": 17.3,
+      "height_ft": 1.05
+    },
+    {
+      "time": "5:24 PM",
+      "hour_decimal": 17.4,
+      "height_ft": 1.0
+    },
+    {
+      "time": "5:30 PM",
+      "hour_decimal": 17.5,
+      "height_ft": 0.94
+    },
+    {
+      "time": "5:36 PM",
+      "hour_decimal": 17.6,
+      "height_ft": 0.9
+    },
+    {
+      "time": "5:42 PM",
+      "hour_decimal": 17.7,
+      "height_ft": 0.85
+    },
+    {
+      "time": "5:48 PM",
+      "hour_decimal": 17.8,
+      "height_ft": 0.81
+    },
+    {
+      "time": "5:54 PM",
+      "hour_decimal": 17.9,
+      "height_ft": 0.78
+    },
+    {
+      "time": "6:00 PM",
+      "hour_decimal": 18.0,
+      "height_ft": 0.75
+    },
+    {
+      "time": "6:06 PM",
+      "hour_decimal": 18.1,
+      "height_ft": 0.73
+    },
+    {
+      "time": "6:12 PM",
+      "hour_decimal": 18.2,
+      "height_ft": 0.71
+    },
+    {
+      "time": "6:18 PM",
+      "hour_decimal": 18.3,
+      "height_ft": 0.69
+    },
+    {
+      "time": "6:24 PM",
+      "hour_decimal": 18.4,
+      "height_ft": 0.69
+    },
+    {
+      "time": "6:30 PM",
+      "hour_decimal": 18.5,
+      "height_ft": 0.68
+    },
+    {
+      "time": "6:36 PM",
+      "hour_decimal": 18.6,
+      "height_ft": 0.69
+    },
+    {
+      "time": "6:42 PM",
+      "hour_decimal": 18.7,
+      "height_ft": 0.69
+    },
+    {
+      "time": "6:48 PM",
+      "hour_decimal": 18.8,
+      "height_ft": 0.7
+    },
+    {
+      "time": "6:54 PM",
+      "hour_decimal": 18.9,
+      "height_ft": 0.72
+    },
+    {
+      "time": "7:00 PM",
+      "hour_decimal": 19.0,
+      "height_ft": 0.74
+    },
+    {
+      "time": "7:06 PM",
+      "hour_decimal": 19.1,
+      "height_ft": 0.77
+    },
+    {
+      "time": "7:12 PM",
+      "hour_decimal": 19.2,
+      "height_ft": 0.81
+    },
+    {
+      "time": "7:18 PM",
+      "hour_decimal": 19.3,
+      "height_ft": 0.84
+    },
+    {
+      "time": "7:24 PM",
+      "hour_decimal": 19.4,
+      "height_ft": 0.89
+    },
+    {
+      "time": "7:30 PM",
+      "hour_decimal": 19.5,
+      "height_ft": 0.93
+    },
+    {
+      "time": "7:36 PM",
+      "hour_decimal": 19.6,
+      "height_ft": 0.98
+    },
+    {
+      "time": "7:42 PM",
+      "hour_decimal": 19.7,
+      "height_ft": 1.04
+    },
+    {
+      "time": "7:48 PM",
+      "hour_decimal": 19.8,
+      "height_ft": 1.1
+    },
+    {
+      "time": "7:54 PM",
+      "hour_decimal": 19.9,
+      "height_ft": 1.16
+    },
+    {
+      "time": "8:00 PM",
+      "hour_decimal": 20.0,
+      "height_ft": 1.23
+    },
+    {
+      "time": "8:06 PM",
+      "hour_decimal": 20.1,
+      "height_ft": 1.3
+    },
+    {
+      "time": "8:12 PM",
+      "hour_decimal": 20.2,
+      "height_ft": 1.37
+    },
+    {
+      "time": "8:18 PM",
+      "hour_decimal": 20.3,
+      "height_ft": 1.45
+    },
+    {
+      "time": "8:24 PM",
+      "hour_decimal": 20.4,
+      "height_ft": 1.53
+    },
+    {
+      "time": "8:30 PM",
+      "hour_decimal": 20.5,
+      "height_ft": 1.61
+    },
+    {
+      "time": "8:36 PM",
+      "hour_decimal": 20.6,
+      "height_ft": 1.7
+    },
+    {
+      "time": "8:42 PM",
+      "hour_decimal": 20.7,
+      "height_ft": 1.78
+    },
+    {
+      "time": "8:48 PM",
+      "hour_decimal": 20.8,
+      "height_ft": 1.87
+    },
+    {
+      "time": "8:54 PM",
+      "hour_decimal": 20.9,
+      "height_ft": 1.96
+    },
+    {
+      "time": "9:00 PM",
+      "hour_decimal": 21.0,
+      "height_ft": 2.06
+    },
+    {
+      "time": "9:06 PM",
+      "hour_decimal": 21.1,
+      "height_ft": 2.15
+    },
+    {
+      "time": "9:12 PM",
+      "hour_decimal": 21.2,
+      "height_ft": 2.24
+    },
+    {
+      "time": "9:18 PM",
+      "hour_decimal": 21.3,
+      "height_ft": 2.34
+    },
+    {
+      "time": "9:24 PM",
+      "hour_decimal": 21.4,
+      "height_ft": 2.43
+    },
+    {
+      "time": "9:30 PM",
+      "hour_decimal": 21.5,
+      "height_ft": 2.53
+    },
+    {
+      "time": "9:36 PM",
+      "hour_decimal": 21.6,
+      "height_ft": 2.62
+    },
+    {
+      "time": "9:42 PM",
+      "hour_decimal": 21.7,
+      "height_ft": 2.71
+    },
+    {
+      "time": "9:48 PM",
+      "hour_decimal": 21.8,
+      "height_ft": 2.81
+    },
+    {
+      "time": "9:54 PM",
+      "hour_decimal": 21.9,
+      "height_ft": 2.9
+    },
+    {
+      "time": "10:00 PM",
+      "hour_decimal": 22.0,
+      "height_ft": 2.99
+    },
+    {
+      "time": "10:06 PM",
+      "hour_decimal": 22.1,
+      "height_ft": 3.08
+    },
+    {
+      "time": "10:12 PM",
+      "hour_decimal": 22.2,
+      "height_ft": 3.17
+    },
+    {
+      "time": "10:18 PM",
+      "hour_decimal": 22.3,
+      "height_ft": 3.26
+    },
+    {
+      "time": "10:24 PM",
+      "hour_decimal": 22.4,
+      "height_ft": 3.34
+    },
+    {
+      "time": "10:30 PM",
+      "hour_decimal": 22.5,
+      "height_ft": 3.42
+    },
+    {
+      "time": "10:36 PM",
+      "hour_decimal": 22.6,
+      "height_ft": 3.5
+    },
+    {
+      "time": "10:42 PM",
+      "hour_decimal": 22.7,
+      "height_ft": 3.58
+    },
+    {
+      "time": "10:48 PM",
+      "hour_decimal": 22.8,
+      "height_ft": 3.65
+    },
+    {
+      "time": "10:54 PM",
+      "hour_decimal": 22.9,
+      "height_ft": 3.72
+    },
+    {
+      "time": "11:00 PM",
+      "hour_decimal": 23.0,
+      "height_ft": 3.79
+    },
+    {
+      "time": "11:06 PM",
+      "hour_decimal": 23.1,
+      "height_ft": 3.85
+    },
+    {
+      "time": "11:12 PM",
+      "hour_decimal": 23.2,
+      "height_ft": 3.91
+    },
+    {
+      "time": "11:18 PM",
+      "hour_decimal": 23.3,
+      "height_ft": 3.97
+    },
+    {
+      "time": "11:24 PM",
+      "hour_decimal": 23.4,
+      "height_ft": 4.02
+    },
+    {
+      "time": "11:30 PM",
+      "hour_decimal": 23.5,
+      "height_ft": 4.07
+    },
+    {
+      "time": "11:36 PM",
+      "hour_decimal": 23.6,
+      "height_ft": 4.12
+    },
+    {
+      "time": "11:42 PM",
+      "hour_decimal": 23.7,
+      "height_ft": 4.16
+    },
+    {
+      "time": "11:48 PM",
+      "hour_decimal": 23.8,
+      "height_ft": 4.2
+    },
+    {
+      "time": "11:54 PM",
+      "hour_decimal": 23.9,
+      "height_ft": 4.23
+    }
+  ],
+  "tides": [
+    {
+      "type": "LOW",
+      "time": "5:41 AM",
+      "hour_decimal": 5.68,
+      "height_ft": 1.2
+    },
+    {
+      "type": "HIGH",
+      "time": "11:55 AM",
+      "hour_decimal": 11.92,
+      "height_ft": 5.5
+    },
+    {
+      "type": "LOW",
+      "time": "6:30 PM",
+      "hour_decimal": 18.5,
+      "height_ft": 0.7
+    }
+  ],
+  "wind_forecast": [
+    {
+      "time": "8 PM",
+      "date": "Sun",
+      "hour": 20,
+      "temperature_f": 62,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "9 PM",
+      "date": "Sun",
+      "hour": 21,
+      "temperature_f": 60,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "10 PM",
+      "date": "Sun",
+      "hour": 22,
+      "temperature_f": 60,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "11 PM",
+      "date": "Sun",
+      "hour": 23,
+      "temperature_f": 60,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNW",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "12 AM",
+      "date": "Mon",
+      "hour": 0,
+      "temperature_f": 58,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNW",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "1 AM",
+      "date": "Mon",
+      "hour": 1,
+      "temperature_f": 56,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNW",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "2 AM",
+      "date": "Mon",
+      "hour": 2,
+      "temperature_f": 58,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "3 AM",
+      "date": "Mon",
+      "hour": 3,
+      "temperature_f": 56,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "4 AM",
+      "date": "Mon",
+      "hour": 4,
+      "temperature_f": 54,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "5 AM",
+      "date": "Mon",
+      "hour": 5,
+      "temperature_f": 58,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "6 AM",
+      "date": "Mon",
+      "hour": 6,
+      "temperature_f": 54,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Mostly Sunny"
+    },
+    {
+      "time": "7 AM",
+      "date": "Mon",
+      "hour": 7,
+      "temperature_f": 56,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Mostly Sunny"
+    },
+    {
+      "time": "8 AM",
+      "date": "Mon",
+      "hour": 8,
+      "temperature_f": 59,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Mostly Sunny"
+    },
+    {
+      "time": "9 AM",
+      "date": "Mon",
+      "hour": 9,
+      "temperature_f": 65,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Mostly Sunny"
+    },
+    {
+      "time": "10 AM",
+      "date": "Mon",
+      "hour": 10,
+      "temperature_f": 72,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Mostly Sunny"
+    },
+    {
+      "time": "11 AM",
+      "date": "Mon",
+      "hour": 11,
+      "temperature_f": 70,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "12 PM",
+      "date": "Mon",
+      "hour": 12,
+      "temperature_f": 69,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "1 PM",
+      "date": "Mon",
+      "hour": 13,
+      "temperature_f": 67,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "2 PM",
+      "date": "Mon",
+      "hour": 14,
+      "temperature_f": 64,
+      "wind_speed": "20 mph",
+      "wind_direction": "WNW",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "3 PM",
+      "date": "Mon",
+      "hour": 15,
+      "temperature_f": 67,
+      "wind_speed": "20 mph",
+      "wind_direction": "WNW",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "4 PM",
+      "date": "Mon",
+      "hour": 16,
+      "temperature_f": 66,
+      "wind_speed": "20 mph",
+      "wind_direction": "WNW",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "5 PM",
+      "date": "Mon",
+      "hour": 17,
+      "temperature_f": 63,
+      "wind_speed": "15 mph",
+      "wind_direction": "WNW",
+      "short_forecast": "Mostly Sunny"
+    },
+    {
+      "time": "6 PM",
+      "date": "Mon",
+      "hour": 18,
+      "temperature_f": 63,
+      "wind_speed": "15 mph",
+      "wind_direction": "WNW",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "7 PM",
+      "date": "Mon",
+      "hour": 19,
+      "temperature_f": 60,
+      "wind_speed": "15 mph",
+      "wind_direction": "WNW",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "8 PM",
+      "date": "Mon",
+      "hour": 20,
+      "temperature_f": 60,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "9 PM",
+      "date": "Mon",
+      "hour": 21,
+      "temperature_f": 58,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "10 PM",
+      "date": "Mon",
+      "hour": 22,
+      "temperature_f": 60,
+      "wind_speed": "15 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "11 PM",
+      "date": "Mon",
+      "hour": 23,
+      "temperature_f": 60,
+      "wind_speed": "5 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Cloudy"
+    },
+    {
+      "time": "12 AM",
+      "date": "Tue",
+      "hour": 0,
+      "temperature_f": 60,
+      "wind_speed": "5 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Cloudy"
+    },
+    {
+      "time": "1 AM",
+      "date": "Tue",
+      "hour": 1,
+      "temperature_f": 58,
+      "wind_speed": "5 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Cloudy"
+    },
+    {
+      "time": "2 AM",
+      "date": "Tue",
+      "hour": 2,
+      "temperature_f": 60,
+      "wind_speed": "5 mph",
+      "wind_direction": "NE",
+      "short_forecast": "Mostly Cloudy"
+    }
+  ]
+}
