@@ -1,14 +1,14 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Wednesday, September 16, 2026",
-  "updated_display": "2:20 PM PDT",
+  "updated_display": "2:45 PM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
-    "wave_height_ft": 3.6,
+    "wave_height_ft": 3.3,
     "period_sec": 8.0,
     "direction_deg": 290.0,
-    "water_temp_f": 62.1
+    "water_temp_f": 62.4
   },
   "offshore": {
     "station": "46011",
@@ -16,7 +16,7 @@
     "wave_height_ft": null,
     "period_sec": null,
     "direction_deg": null,
-    "water_temp_f": 66.6
+    "water_temp_f": 66.0
   },
   "tide_curve": [
     {
