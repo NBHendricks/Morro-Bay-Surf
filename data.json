@@ -1,7 +1,7 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Friday, September 18, 2026",
-  "updated_display": "1:46 AM PDT",
+  "updated_display": "2:19 AM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
@@ -1230,15 +1230,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "1 AM",
-      "date": "Fri",
-      "hour": 1,
-      "temperature_f": 57,
-      "wind_speed": "5 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Patchy Fog"
-    },
-    {
       "time": "2 AM",
       "date": "Fri",
       "hour": 2,
@@ -1272,7 +1263,7 @@
       "temperature_f": 57,
       "wind_speed": "5 mph",
       "wind_direction": "N",
-      "short_forecast": "Patchy Fog"
+      "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "6 AM",
@@ -1281,7 +1272,7 @@
       "temperature_f": 56,
       "wind_speed": "5 mph",
       "wind_direction": "N",
-      "short_forecast": "Patchy Fog"
+      "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "7 AM",
@@ -1290,7 +1281,7 @@
       "temperature_f": 56,
       "wind_speed": "5 mph",
       "wind_direction": "N",
-      "short_forecast": "Patchy Fog"
+      "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "8 AM",
@@ -1299,7 +1290,7 @@
       "temperature_f": 61,
       "wind_speed": "10 mph",
       "wind_direction": "NNW",
-      "short_forecast": "Patchy Fog"
+      "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "9 AM",
@@ -1308,7 +1299,7 @@
       "temperature_f": 67,
       "wind_speed": "10 mph",
       "wind_direction": "NNW",
-      "short_forecast": "Patchy Fog"
+      "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "10 AM",
@@ -1317,7 +1308,7 @@
       "temperature_f": 69,
       "wind_speed": "10 mph",
       "wind_direction": "NNW",
-      "short_forecast": "Patchy Fog"
+      "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "11 AM",
@@ -1505,6 +1496,15 @@
       "hour": 7,
       "temperature_f": 57,
       "wind_speed": "5 mph",
+      "wind_direction": "NNW",
+      "short_forecast": "Patchy Fog"
+    },
+    {
+      "time": "8 AM",
+      "date": "Sat",
+      "hour": 8,
+      "temperature_f": 64,
+      "wind_speed": "10 mph",
       "wind_direction": "NNW",
       "short_forecast": "Patchy Fog"
     }
