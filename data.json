@@ -1,7 +1,7 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Saturday, September 19, 2026",
-  "updated_display": "12:17 AM PDT",
+  "updated_display": "12:43 AM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
@@ -16,7 +16,7 @@
     "wave_height_ft": null,
     "period_sec": null,
     "direction_deg": null,
-    "water_temp_f": 68.2
+    "water_temp_f": 68.0
   },
   "tide_curve": [
     {
@@ -1251,7 +1251,7 @@
       "time": "12 AM",
       "date": "Sat",
       "hour": 0,
-      "temperature_f": 57,
+      "temperature_f": 55,
       "wind_speed": "5 mph",
       "wind_direction": "NW",
       "short_forecast": "Patchy Fog"
@@ -1260,7 +1260,7 @@
       "time": "1 AM",
       "date": "Sat",
       "hour": 1,
-      "temperature_f": 57,
+      "temperature_f": 55,
       "wind_speed": "5 mph",
       "wind_direction": "NW",
       "short_forecast": "Patchy Fog"
@@ -1269,7 +1269,7 @@
       "time": "2 AM",
       "date": "Sat",
       "hour": 2,
-      "temperature_f": 59,
+      "temperature_f": 57,
       "wind_speed": "5 mph",
       "wind_direction": "NNW",
       "short_forecast": "Patchy Fog"
@@ -1278,7 +1278,7 @@
       "time": "3 AM",
       "date": "Sat",
       "hour": 3,
-      "temperature_f": 57,
+      "temperature_f": 55,
       "wind_speed": "5 mph",
       "wind_direction": "NNW",
       "short_forecast": "Patchy Fog"
@@ -1287,7 +1287,7 @@
       "time": "4 AM",
       "date": "Sat",
       "hour": 4,
-      "temperature_f": 57,
+      "temperature_f": 55,
       "wind_speed": "5 mph",
       "wind_direction": "NNW",
       "short_forecast": "Patchy Fog"
@@ -1296,7 +1296,7 @@
       "time": "5 AM",
       "date": "Sat",
       "hour": 5,
-      "temperature_f": 59,
+      "temperature_f": 57,
       "wind_speed": "5 mph",
       "wind_direction": "NNW",
       "short_forecast": "Patchy Fog"
@@ -1305,7 +1305,7 @@
       "time": "6 AM",
       "date": "Sat",
       "hour": 6,
-      "temperature_f": 57,
+      "temperature_f": 55,
       "wind_speed": "5 mph",
       "wind_direction": "NNW",
       "short_forecast": "Patchy Fog"
@@ -1314,7 +1314,7 @@
       "time": "7 AM",
       "date": "Sat",
       "hour": 7,
-      "temperature_f": 57,
+      "temperature_f": 55,
       "wind_speed": "5 mph",
       "wind_direction": "NNW",
       "short_forecast": "Patchy Fog"
@@ -1323,7 +1323,7 @@
       "time": "8 AM",
       "date": "Sat",
       "hour": 8,
-      "temperature_f": 63,
+      "temperature_f": 61,
       "wind_speed": "10 mph",
       "wind_direction": "WNW",
       "short_forecast": "Patchy Fog"
@@ -1413,7 +1413,7 @@
       "time": "6 PM",
       "date": "Sat",
       "hour": 18,
-      "temperature_f": 62,
+      "temperature_f": 61,
       "wind_speed": "10 mph",
       "wind_direction": "WNW",
       "short_forecast": "Mostly Cloudy"
@@ -1440,7 +1440,7 @@
       "time": "9 PM",
       "date": "Sat",
       "hour": 21,
-      "temperature_f": 57,
+      "temperature_f": 56,
       "wind_speed": "5 mph",
       "wind_direction": "WNW",
       "short_forecast": "Mostly Cloudy"
@@ -1467,7 +1467,7 @@
       "time": "12 AM",
       "date": "Sun",
       "hour": 0,
-      "temperature_f": 57,
+      "temperature_f": 56,
       "wind_speed": "5 mph",
       "wind_direction": "NW",
       "short_forecast": "Patchy Fog"
@@ -1485,7 +1485,7 @@
       "time": "2 AM",
       "date": "Sun",
       "hour": 2,
-      "temperature_f": 62,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "NNW",
       "short_forecast": "Patchy Fog"
@@ -1512,7 +1512,7 @@
       "time": "5 AM",
       "date": "Sun",
       "hour": 5,
-      "temperature_f": 62,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "N",
       "short_forecast": "Patchy Fog"
@@ -1521,7 +1521,7 @@
       "time": "6 AM",
       "date": "Sun",
       "hour": 6,
-      "temperature_f": 57,
+      "temperature_f": 56,
       "wind_speed": "5 mph",
       "wind_direction": "N",
       "short_forecast": "Patchy Fog"
