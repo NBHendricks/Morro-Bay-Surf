@@ -1,7 +1,7 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Thursday, September 24, 2026",
-  "updated_display": "12:20 AM PDT",
+  "updated_display": "12:46 AM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
@@ -13,9 +13,9 @@
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
-    "wave_height_ft": 7.5,
-    "period_sec": 9.0,
-    "direction_deg": 308.0,
+    "wave_height_ft": null,
+    "period_sec": null,
+    "direction_deg": null,
     "water_temp_f": null
   },
   "tide_curve": [
@@ -1269,7 +1269,7 @@
       "time": "2 AM",
       "date": "Thu",
       "hour": 2,
-      "temperature_f": 59,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "E",
       "short_forecast": "Mostly Cloudy"
@@ -1278,7 +1278,7 @@
       "time": "3 AM",
       "date": "Thu",
       "hour": 3,
-      "temperature_f": 60,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "E",
       "short_forecast": "Mostly Cloudy"
@@ -1287,7 +1287,7 @@
       "time": "4 AM",
       "date": "Thu",
       "hour": 4,
-      "temperature_f": 60,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "E",
       "short_forecast": "Mostly Cloudy"
@@ -1296,7 +1296,7 @@
       "time": "5 AM",
       "date": "Thu",
       "hour": 5,
-      "temperature_f": 60,
+      "temperature_f": 63,
       "wind_speed": "5 mph",
       "wind_direction": "ENE",
       "short_forecast": "Mostly Cloudy"
@@ -1323,7 +1323,7 @@
       "time": "8 AM",
       "date": "Thu",
       "hour": 8,
-      "temperature_f": 62,
+      "temperature_f": 63,
       "wind_speed": "5 mph",
       "wind_direction": "SW",
       "short_forecast": "Partly Sunny"
@@ -1332,7 +1332,7 @@
       "time": "9 AM",
       "date": "Thu",
       "hour": 9,
-      "temperature_f": 64,
+      "temperature_f": 67,
       "wind_speed": "5 mph",
       "wind_direction": "SW",
       "short_forecast": "Partly Sunny"
@@ -1341,7 +1341,7 @@
       "time": "10 AM",
       "date": "Thu",
       "hour": 10,
-      "temperature_f": 68,
+      "temperature_f": 71,
       "wind_speed": "5 mph",
       "wind_direction": "SW",
       "short_forecast": "Partly Sunny"
@@ -1350,7 +1350,7 @@
       "time": "11 AM",
       "date": "Thu",
       "hour": 11,
-      "temperature_f": 69,
+      "temperature_f": 66,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Mostly Sunny"
@@ -1359,7 +1359,7 @@
       "time": "12 PM",
       "date": "Thu",
       "hour": 12,
-      "temperature_f": 68,
+      "temperature_f": 69,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Mostly Sunny"
@@ -1368,7 +1368,7 @@
       "time": "1 PM",
       "date": "Thu",
       "hour": 13,
-      "temperature_f": 67,
+      "temperature_f": 68,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Mostly Sunny"
@@ -1377,7 +1377,7 @@
       "time": "2 PM",
       "date": "Thu",
       "hour": 14,
-      "temperature_f": 67,
+      "temperature_f": 66,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Mostly Sunny"
@@ -1386,7 +1386,7 @@
       "time": "3 PM",
       "date": "Thu",
       "hour": 15,
-      "temperature_f": 67,
+      "temperature_f": 68,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Mostly Sunny"
@@ -1404,7 +1404,7 @@
       "time": "5 PM",
       "date": "Thu",
       "hour": 17,
-      "temperature_f": 69,
+      "temperature_f": 64,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Partly Sunny"
@@ -1413,7 +1413,7 @@
       "time": "6 PM",
       "date": "Thu",
       "hour": 18,
-      "temperature_f": 66,
+      "temperature_f": 63,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Mostly Cloudy"
@@ -1422,7 +1422,7 @@
       "time": "7 PM",
       "date": "Thu",
       "hour": 19,
-      "temperature_f": 64,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Mostly Cloudy"
@@ -1431,7 +1431,7 @@
       "time": "8 PM",
       "date": "Thu",
       "hour": 20,
-      "temperature_f": 63,
+      "temperature_f": 60,
       "wind_speed": "5 mph",
       "wind_direction": "NW",
       "short_forecast": "Mostly Cloudy"
@@ -1440,7 +1440,7 @@
       "time": "9 PM",
       "date": "Thu",
       "hour": 21,
-      "temperature_f": 61,
+      "temperature_f": 60,
       "wind_speed": "5 mph",
       "wind_direction": "NW",
       "short_forecast": "Mostly Cloudy"
@@ -1449,7 +1449,7 @@
       "time": "10 PM",
       "date": "Thu",
       "hour": 22,
-      "temperature_f": 61,
+      "temperature_f": 60,
       "wind_speed": "5 mph",
       "wind_direction": "NW",
       "short_forecast": "Mostly Cloudy"
@@ -1461,7 +1461,7 @@
       "temperature_f": 60,
       "wind_speed": "5 mph",
       "wind_direction": "WNW",
-      "short_forecast": "Mostly Cloudy"
+      "short_forecast": "Patchy Fog"
     },
     {
       "time": "12 AM",
@@ -1470,61 +1470,61 @@
       "temperature_f": 60,
       "wind_speed": "5 mph",
       "wind_direction": "WNW",
-      "short_forecast": "Mostly Cloudy"
+      "short_forecast": "Patchy Fog"
     },
     {
       "time": "1 AM",
       "date": "Fri",
       "hour": 1,
-      "temperature_f": 60,
+      "temperature_f": 59,
       "wind_speed": "5 mph",
       "wind_direction": "WNW",
-      "short_forecast": "Mostly Cloudy"
+      "short_forecast": "Patchy Fog"
     },
     {
       "time": "2 AM",
       "date": "Fri",
       "hour": 2,
-      "temperature_f": 59,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "N",
-      "short_forecast": "Mostly Cloudy"
+      "short_forecast": "Patchy Fog"
     },
     {
       "time": "3 AM",
       "date": "Fri",
       "hour": 3,
-      "temperature_f": 59,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "N",
-      "short_forecast": "Mostly Cloudy"
+      "short_forecast": "Patchy Fog"
     },
     {
       "time": "4 AM",
       "date": "Fri",
       "hour": 4,
-      "temperature_f": 59,
+      "temperature_f": 62,
       "wind_speed": "5 mph",
       "wind_direction": "N",
-      "short_forecast": "Mostly Cloudy"
+      "short_forecast": "Patchy Fog"
     },
     {
       "time": "5 AM",
       "date": "Fri",
       "hour": 5,
-      "temperature_f": 60,
+      "temperature_f": 62,
       "wind_speed": "5 mph",
       "wind_direction": "N",
-      "short_forecast": "Mostly Cloudy"
+      "short_forecast": "Patchy Fog"
     },
     {
       "time": "6 AM",
       "date": "Fri",
       "hour": 6,
-      "temperature_f": 60,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "N",
-      "short_forecast": "Partly Sunny"
+      "short_forecast": "Patchy Fog"
     }
   ]
 }
