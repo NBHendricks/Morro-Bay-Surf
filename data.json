@@ -1,733 +1,733 @@
 {
   "location": "Morro Bay, California",
-  "date_display": "Thursday, September 24, 2026",
-  "updated_display": "11:51 PM PDT",
+  "date_display": "Friday, September 25, 2026",
+  "updated_display": "12:21 AM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
-    "wave_height_ft": 4.6,
+    "wave_height_ft": 4.3,
     "period_sec": 12.0,
-    "direction_deg": 276.0,
+    "direction_deg": 281.0,
     "water_temp_f": 63.1
   },
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
-    "wave_height_ft": null,
-    "period_sec": null,
-    "direction_deg": null,
+    "wave_height_ft": 5.2,
+    "period_sec": 11.0,
+    "direction_deg": 305.0,
     "water_temp_f": 66.2
   },
   "tide_curve": [
     {
       "time": "12:00 AM",
       "hour_decimal": 0.0,
-      "height_ft": 2.72
+      "height_ft": 3.41
     },
     {
       "time": "12:06 AM",
       "hour_decimal": 0.1,
-      "height_ft": 2.6
+      "height_ft": 3.3
     },
     {
       "time": "12:12 AM",
       "hour_decimal": 0.2,
-      "height_ft": 2.49
+      "height_ft": 3.19
     },
     {
       "time": "12:18 AM",
       "hour_decimal": 0.3,
-      "height_ft": 2.38
+      "height_ft": 3.07
     },
     {
       "time": "12:24 AM",
       "hour_decimal": 0.4,
-      "height_ft": 2.26
+      "height_ft": 2.96
     },
     {
       "time": "12:30 AM",
       "hour_decimal": 0.5,
-      "height_ft": 2.15
+      "height_ft": 2.84
     },
     {
       "time": "12:36 AM",
       "hour_decimal": 0.6,
-      "height_ft": 2.04
+      "height_ft": 2.73
     },
     {
       "time": "12:42 AM",
       "hour_decimal": 0.7,
-      "height_ft": 1.93
+      "height_ft": 2.62
     },
     {
       "time": "12:48 AM",
       "hour_decimal": 0.8,
-      "height_ft": 1.82
+      "height_ft": 2.5
     },
     {
       "time": "12:54 AM",
       "hour_decimal": 0.9,
-      "height_ft": 1.72
+      "height_ft": 2.39
     },
     {
       "time": "1:00 AM",
       "hour_decimal": 1.0,
-      "height_ft": 1.62
+      "height_ft": 2.28
     },
     {
       "time": "1:06 AM",
       "hour_decimal": 1.1,
-      "height_ft": 1.52
+      "height_ft": 2.17
     },
     {
       "time": "1:12 AM",
       "hour_decimal": 1.2,
-      "height_ft": 1.42
+      "height_ft": 2.06
     },
     {
       "time": "1:18 AM",
       "hour_decimal": 1.3,
-      "height_ft": 1.33
+      "height_ft": 1.95
     },
     {
       "time": "1:24 AM",
       "hour_decimal": 1.4,
-      "height_ft": 1.24
+      "height_ft": 1.84
     },
     {
       "time": "1:30 AM",
       "hour_decimal": 1.5,
-      "height_ft": 1.15
+      "height_ft": 1.74
     },
     {
       "time": "1:36 AM",
       "hour_decimal": 1.6,
-      "height_ft": 1.06
+      "height_ft": 1.64
     },
     {
       "time": "1:42 AM",
       "hour_decimal": 1.7,
-      "height_ft": 0.98
+      "height_ft": 1.54
     },
     {
       "time": "1:48 AM",
       "hour_decimal": 1.8,
-      "height_ft": 0.91
+      "height_ft": 1.45
     },
     {
       "time": "1:54 AM",
       "hour_decimal": 1.9,
-      "height_ft": 0.84
+      "height_ft": 1.36
     },
     {
       "time": "2:00 AM",
       "hour_decimal": 2.0,
-      "height_ft": 0.77
+      "height_ft": 1.27
     },
     {
       "time": "2:06 AM",
       "hour_decimal": 2.1,
-      "height_ft": 0.7
+      "height_ft": 1.19
     },
     {
       "time": "2:12 AM",
       "hour_decimal": 2.2,
-      "height_ft": 0.65
+      "height_ft": 1.11
     },
     {
       "time": "2:18 AM",
       "hour_decimal": 2.3,
-      "height_ft": 0.59
+      "height_ft": 1.03
     },
     {
       "time": "2:24 AM",
       "hour_decimal": 2.4,
-      "height_ft": 0.54
+      "height_ft": 0.96
     },
     {
       "time": "2:30 AM",
       "hour_decimal": 2.5,
-      "height_ft": 0.5
+      "height_ft": 0.9
     },
     {
       "time": "2:36 AM",
       "hour_decimal": 2.6,
-      "height_ft": 0.46
+      "height_ft": 0.83
     },
     {
       "time": "2:42 AM",
       "hour_decimal": 2.7,
-      "height_ft": 0.43
+      "height_ft": 0.78
     },
     {
       "time": "2:48 AM",
       "hour_decimal": 2.8,
-      "height_ft": 0.4
+      "height_ft": 0.72
     },
     {
       "time": "2:54 AM",
       "hour_decimal": 2.9,
-      "height_ft": 0.38
+      "height_ft": 0.68
     },
     {
       "time": "3:00 AM",
       "hour_decimal": 3.0,
-      "height_ft": 0.36
+      "height_ft": 0.64
     },
     {
       "time": "3:06 AM",
       "hour_decimal": 3.1,
-      "height_ft": 0.35
+      "height_ft": 0.6
     },
     {
       "time": "3:12 AM",
       "hour_decimal": 3.2,
-      "height_ft": 0.34
+      "height_ft": 0.57
     },
     {
       "time": "3:18 AM",
       "hour_decimal": 3.3,
-      "height_ft": 0.34
+      "height_ft": 0.54
     },
     {
       "time": "3:24 AM",
       "hour_decimal": 3.4,
-      "height_ft": 0.35
+      "height_ft": 0.52
     },
     {
       "time": "3:30 AM",
       "hour_decimal": 3.5,
-      "height_ft": 0.36
+      "height_ft": 0.51
     },
     {
       "time": "3:36 AM",
       "hour_decimal": 3.6,
-      "height_ft": 0.37
+      "height_ft": 0.5
     },
     {
       "time": "3:42 AM",
       "hour_decimal": 3.7,
-      "height_ft": 0.4
+      "height_ft": 0.5
     },
     {
       "time": "3:48 AM",
       "hour_decimal": 3.8,
-      "height_ft": 0.42
+      "height_ft": 0.5
     },
     {
       "time": "3:54 AM",
       "hour_decimal": 3.9,
-      "height_ft": 0.45
+      "height_ft": 0.51
     },
     {
       "time": "4:00 AM",
       "hour_decimal": 4.0,
-      "height_ft": 0.49
+      "height_ft": 0.53
     },
     {
       "time": "4:06 AM",
       "hour_decimal": 4.1,
-      "height_ft": 0.53
+      "height_ft": 0.55
     },
     {
       "time": "4:12 AM",
       "hour_decimal": 4.2,
-      "height_ft": 0.58
+      "height_ft": 0.57
     },
     {
       "time": "4:18 AM",
       "hour_decimal": 4.3,
-      "height_ft": 0.63
+      "height_ft": 0.6
     },
     {
       "time": "4:24 AM",
       "hour_decimal": 4.4,
-      "height_ft": 0.69
+      "height_ft": 0.64
     },
     {
       "time": "4:30 AM",
       "hour_decimal": 4.5,
-      "height_ft": 0.75
+      "height_ft": 0.68
     },
     {
       "time": "4:36 AM",
       "hour_decimal": 4.6,
-      "height_ft": 0.82
+      "height_ft": 0.73
     },
     {
       "time": "4:42 AM",
       "hour_decimal": 4.7,
-      "height_ft": 0.89
+      "height_ft": 0.78
     },
     {
       "time": "4:48 AM",
       "hour_decimal": 4.8,
-      "height_ft": 0.96
+      "height_ft": 0.84
     },
     {
       "time": "4:54 AM",
       "hour_decimal": 4.9,
-      "height_ft": 1.04
+      "height_ft": 0.9
     },
     {
       "time": "5:00 AM",
       "hour_decimal": 5.0,
-      "height_ft": 1.12
+      "height_ft": 0.97
     },
     {
       "time": "5:06 AM",
       "hour_decimal": 5.1,
-      "height_ft": 1.21
+      "height_ft": 1.04
     },
     {
       "time": "5:12 AM",
       "hour_decimal": 5.2,
-      "height_ft": 1.29
+      "height_ft": 1.12
     },
     {
       "time": "5:18 AM",
       "hour_decimal": 5.3,
-      "height_ft": 1.39
+      "height_ft": 1.2
     },
     {
       "time": "5:24 AM",
       "hour_decimal": 5.4,
-      "height_ft": 1.48
+      "height_ft": 1.28
     },
     {
       "time": "5:30 AM",
       "hour_decimal": 5.5,
-      "height_ft": 1.58
+      "height_ft": 1.37
     },
     {
       "time": "5:36 AM",
       "hour_decimal": 5.6,
-      "height_ft": 1.67
+      "height_ft": 1.46
     },
     {
       "time": "5:42 AM",
       "hour_decimal": 5.7,
-      "height_ft": 1.77
+      "height_ft": 1.55
     },
     {
       "time": "5:48 AM",
       "hour_decimal": 5.8,
-      "height_ft": 1.88
+      "height_ft": 1.65
     },
     {
       "time": "5:54 AM",
       "hour_decimal": 5.9,
-      "height_ft": 1.98
+      "height_ft": 1.75
     },
     {
       "time": "6:00 AM",
       "hour_decimal": 6.0,
-      "height_ft": 2.08
+      "height_ft": 1.85
     },
     {
       "time": "6:06 AM",
       "hour_decimal": 6.1,
-      "height_ft": 2.19
+      "height_ft": 1.96
     },
     {
       "time": "6:12 AM",
       "hour_decimal": 6.2,
-      "height_ft": 2.3
+      "height_ft": 2.06
     },
     {
       "time": "6:18 AM",
       "hour_decimal": 6.3,
-      "height_ft": 2.4
+      "height_ft": 2.17
     },
     {
       "time": "6:24 AM",
       "hour_decimal": 6.4,
-      "height_ft": 2.51
+      "height_ft": 2.28
     },
     {
       "time": "6:30 AM",
       "hour_decimal": 6.5,
-      "height_ft": 2.62
+      "height_ft": 2.39
     },
     {
       "time": "6:36 AM",
       "hour_decimal": 6.6,
-      "height_ft": 2.73
+      "height_ft": 2.5
     },
     {
       "time": "6:42 AM",
       "hour_decimal": 6.7,
-      "height_ft": 2.83
+      "height_ft": 2.61
     },
     {
       "time": "6:48 AM",
       "hour_decimal": 6.8,
-      "height_ft": 2.94
+      "height_ft": 2.73
     },
     {
       "time": "6:54 AM",
       "hour_decimal": 6.9,
-      "height_ft": 3.04
+      "height_ft": 2.84
     },
     {
       "time": "7:00 AM",
       "hour_decimal": 7.0,
-      "height_ft": 3.14
+      "height_ft": 2.95
     },
     {
       "time": "7:06 AM",
       "hour_decimal": 7.1,
-      "height_ft": 3.24
+      "height_ft": 3.06
     },
     {
       "time": "7:12 AM",
       "hour_decimal": 7.2,
-      "height_ft": 3.34
+      "height_ft": 3.17
     },
     {
       "time": "7:18 AM",
       "hour_decimal": 7.3,
-      "height_ft": 3.44
+      "height_ft": 3.28
     },
     {
       "time": "7:24 AM",
       "hour_decimal": 7.4,
-      "height_ft": 3.54
+      "height_ft": 3.39
     },
     {
       "time": "7:30 AM",
       "hour_decimal": 7.5,
-      "height_ft": 3.63
+      "height_ft": 3.5
     },
     {
       "time": "7:36 AM",
       "hour_decimal": 7.6,
-      "height_ft": 3.72
+      "height_ft": 3.6
     },
     {
       "time": "7:42 AM",
       "hour_decimal": 7.7,
-      "height_ft": 3.81
+      "height_ft": 3.71
     },
     {
       "time": "7:48 AM",
       "hour_decimal": 7.8,
-      "height_ft": 3.89
+      "height_ft": 3.81
     },
     {
       "time": "7:54 AM",
       "hour_decimal": 7.9,
-      "height_ft": 3.97
+      "height_ft": 3.9
     },
     {
       "time": "8:00 AM",
       "hour_decimal": 8.0,
-      "height_ft": 4.04
+      "height_ft": 4.0
     },
     {
       "time": "8:06 AM",
       "hour_decimal": 8.1,
-      "height_ft": 4.12
+      "height_ft": 4.09
     },
     {
       "time": "8:12 AM",
       "hour_decimal": 8.2,
-      "height_ft": 4.19
+      "height_ft": 4.18
     },
     {
       "time": "8:18 AM",
       "hour_decimal": 8.3,
-      "height_ft": 4.25
+      "height_ft": 4.26
     },
     {
       "time": "8:24 AM",
       "hour_decimal": 8.4,
-      "height_ft": 4.31
+      "height_ft": 4.35
     },
     {
       "time": "8:30 AM",
       "hour_decimal": 8.5,
-      "height_ft": 4.37
+      "height_ft": 4.42
     },
     {
       "time": "8:36 AM",
       "hour_decimal": 8.6,
-      "height_ft": 4.42
+      "height_ft": 4.5
     },
     {
       "time": "8:42 AM",
       "hour_decimal": 8.7,
-      "height_ft": 4.47
+      "height_ft": 4.56
     },
     {
       "time": "8:48 AM",
       "hour_decimal": 8.8,
-      "height_ft": 4.51
+      "height_ft": 4.63
     },
     {
       "time": "8:54 AM",
       "hour_decimal": 8.9,
-      "height_ft": 4.55
+      "height_ft": 4.68
     },
     {
       "time": "9:00 AM",
       "hour_decimal": 9.0,
-      "height_ft": 4.58
+      "height_ft": 4.74
     },
     {
       "time": "9:06 AM",
       "hour_decimal": 9.1,
-      "height_ft": 4.61
+      "height_ft": 4.79
     },
     {
       "time": "9:12 AM",
       "hour_decimal": 9.2,
-      "height_ft": 4.63
+      "height_ft": 4.83
     },
     {
       "time": "9:18 AM",
       "hour_decimal": 9.3,
-      "height_ft": 4.65
+      "height_ft": 4.87
     },
     {
       "time": "9:24 AM",
       "hour_decimal": 9.4,
-      "height_ft": 4.66
+      "height_ft": 4.9
     },
     {
       "time": "9:30 AM",
       "hour_decimal": 9.5,
-      "height_ft": 4.67
+      "height_ft": 4.93
     },
     {
       "time": "9:36 AM",
       "hour_decimal": 9.6,
-      "height_ft": 4.67
+      "height_ft": 4.95
     },
     {
       "time": "9:42 AM",
       "hour_decimal": 9.7,
-      "height_ft": 4.67
+      "height_ft": 4.96
     },
     {
       "time": "9:48 AM",
       "hour_decimal": 9.8,
-      "height_ft": 4.66
+      "height_ft": 4.97
     },
     {
       "time": "9:54 AM",
       "hour_decimal": 9.9,
-      "height_ft": 4.64
+      "height_ft": 4.98
     },
     {
       "time": "10:00 AM",
       "hour_decimal": 10.0,
-      "height_ft": 4.63
+      "height_ft": 4.98
     },
     {
       "time": "10:06 AM",
       "hour_decimal": 10.1,
-      "height_ft": 4.61
+      "height_ft": 4.97
     },
     {
       "time": "10:12 AM",
       "hour_decimal": 10.2,
-      "height_ft": 4.58
+      "height_ft": 4.96
     },
     {
       "time": "10:18 AM",
       "hour_decimal": 10.3,
-      "height_ft": 4.55
+      "height_ft": 4.94
     },
     {
       "time": "10:24 AM",
       "hour_decimal": 10.4,
-      "height_ft": 4.51
+      "height_ft": 4.92
     },
     {
       "time": "10:30 AM",
       "hour_decimal": 10.5,
-      "height_ft": 4.47
+      "height_ft": 4.89
     },
     {
       "time": "10:36 AM",
       "hour_decimal": 10.6,
-      "height_ft": 4.43
+      "height_ft": 4.86
     },
     {
       "time": "10:42 AM",
       "hour_decimal": 10.7,
-      "height_ft": 4.38
+      "height_ft": 4.82
     },
     {
       "time": "10:48 AM",
       "hour_decimal": 10.8,
-      "height_ft": 4.33
+      "height_ft": 4.78
     },
     {
       "time": "10:54 AM",
       "hour_decimal": 10.9,
-      "height_ft": 4.27
+      "height_ft": 4.73
     },
     {
       "time": "11:00 AM",
       "hour_decimal": 11.0,
-      "height_ft": 4.21
+      "height_ft": 4.68
     },
     {
       "time": "11:06 AM",
       "hour_decimal": 11.1,
-      "height_ft": 4.15
+      "height_ft": 4.62
     },
     {
       "time": "11:12 AM",
       "hour_decimal": 11.2,
-      "height_ft": 4.09
+      "height_ft": 4.56
     },
     {
       "time": "11:18 AM",
       "hour_decimal": 11.3,
-      "height_ft": 4.02
+      "height_ft": 4.5
     },
     {
       "time": "11:24 AM",
       "hour_decimal": 11.4,
-      "height_ft": 3.95
+      "height_ft": 4.43
     },
     {
       "time": "11:30 AM",
       "hour_decimal": 11.5,
-      "height_ft": 3.88
+      "height_ft": 4.36
     },
     {
       "time": "11:36 AM",
       "hour_decimal": 11.6,
-      "height_ft": 3.8
+      "height_ft": 4.28
     },
     {
       "time": "11:42 AM",
       "hour_decimal": 11.7,
-      "height_ft": 3.73
+      "height_ft": 4.2
     },
     {
       "time": "11:48 AM",
       "hour_decimal": 11.8,
-      "height_ft": 3.65
+      "height_ft": 4.12
     },
     {
       "time": "11:54 AM",
       "hour_decimal": 11.9,
-      "height_ft": 3.57
+      "height_ft": 4.04
     },
     {
       "time": "12:00 PM",
       "hour_decimal": 12.0,
-      "height_ft": 3.49
+      "height_ft": 3.95
     },
     {
       "time": "12:06 PM",
       "hour_decimal": 12.1,
-      "height_ft": 3.41
+      "height_ft": 3.86
     },
     {
       "time": "12:12 PM",
       "hour_decimal": 12.2,
-      "height_ft": 3.33
+      "height_ft": 3.77
     },
     {
       "time": "12:18 PM",
       "hour_decimal": 12.3,
-      "height_ft": 3.25
+      "height_ft": 3.68
     },
     {
       "time": "12:24 PM",
       "hour_decimal": 12.4,
-      "height_ft": 3.17
+      "height_ft": 3.58
     },
     {
       "time": "12:30 PM",
       "hour_decimal": 12.5,
-      "height_ft": 3.08
+      "height_ft": 3.49
     },
     {
       "time": "12:36 PM",
       "hour_decimal": 12.6,
-      "height_ft": 3.0
+      "height_ft": 3.39
     },
     {
       "time": "12:42 PM",
       "hour_decimal": 12.7,
-      "height_ft": 2.92
+      "height_ft": 3.29
     },
     {
       "time": "12:48 PM",
       "hour_decimal": 12.8,
-      "height_ft": 2.84
+      "height_ft": 3.2
     },
     {
       "time": "12:54 PM",
       "hour_decimal": 12.9,
-      "height_ft": 2.76
+      "height_ft": 3.1
     },
     {
       "time": "1:00 PM",
       "hour_decimal": 13.0,
-      "height_ft": 2.68
+      "height_ft": 3.0
     },
     {
       "time": "1:06 PM",
       "hour_decimal": 13.1,
-      "height_ft": 2.61
+      "height_ft": 2.9
     },
     {
       "time": "1:12 PM",
       "hour_decimal": 13.2,
-      "height_ft": 2.53
+      "height_ft": 2.81
     },
     {
       "time": "1:18 PM",
       "hour_decimal": 13.3,
-      "height_ft": 2.46
+      "height_ft": 2.71
     },
     {
       "time": "1:24 PM",
       "hour_decimal": 13.4,
-      "height_ft": 2.39
+      "height_ft": 2.62
     },
     {
       "time": "1:30 PM",
       "hour_decimal": 13.5,
-      "height_ft": 2.32
+      "height_ft": 2.52
     },
     {
       "time": "1:36 PM",
       "hour_decimal": 13.6,
-      "height_ft": 2.25
+      "height_ft": 2.43
     },
     {
       "time": "1:42 PM",
       "hour_decimal": 13.7,
-      "height_ft": 2.19
+      "height_ft": 2.34
     },
     {
       "time": "1:48 PM",
       "hour_decimal": 13.8,
-      "height_ft": 2.13
+      "height_ft": 2.25
     },
     {
       "time": "1:54 PM",
       "hour_decimal": 13.9,
-      "height_ft": 2.07
+      "height_ft": 2.16
     },
     {
       "time": "2:00 PM",
       "hour_decimal": 14.0,
-      "height_ft": 2.02
+      "height_ft": 2.08
     },
     {
       "time": "2:06 PM",
       "hour_decimal": 14.1,
-      "height_ft": 1.97
+      "height_ft": 2.0
     },
     {
       "time": "2:12 PM",
@@ -737,525 +737,516 @@
     {
       "time": "2:18 PM",
       "hour_decimal": 14.3,
-      "height_ft": 1.87
+      "height_ft": 1.85
     },
     {
       "time": "2:24 PM",
       "hour_decimal": 14.4,
-      "height_ft": 1.83
+      "height_ft": 1.78
     },
     {
       "time": "2:30 PM",
       "hour_decimal": 14.5,
-      "height_ft": 1.8
+      "height_ft": 1.71
     },
     {
       "time": "2:36 PM",
       "hour_decimal": 14.6,
-      "height_ft": 1.77
+      "height_ft": 1.65
     },
     {
       "time": "2:42 PM",
       "hour_decimal": 14.7,
-      "height_ft": 1.74
+      "height_ft": 1.59
     },
     {
       "time": "2:48 PM",
       "hour_decimal": 14.8,
-      "height_ft": 1.72
+      "height_ft": 1.53
     },
     {
       "time": "2:54 PM",
       "hour_decimal": 14.9,
-      "height_ft": 1.7
+      "height_ft": 1.48
     },
     {
       "time": "3:00 PM",
       "hour_decimal": 15.0,
-      "height_ft": 1.68
+      "height_ft": 1.43
     },
     {
       "time": "3:06 PM",
       "hour_decimal": 15.1,
-      "height_ft": 1.67
+      "height_ft": 1.39
     },
     {
       "time": "3:12 PM",
       "hour_decimal": 15.2,
-      "height_ft": 1.67
+      "height_ft": 1.35
     },
     {
       "time": "3:18 PM",
       "hour_decimal": 15.3,
-      "height_ft": 1.67
+      "height_ft": 1.32
     },
     {
       "time": "3:24 PM",
       "hour_decimal": 15.4,
-      "height_ft": 1.67
+      "height_ft": 1.29
     },
     {
       "time": "3:30 PM",
       "hour_decimal": 15.5,
-      "height_ft": 1.68
+      "height_ft": 1.27
     },
     {
       "time": "3:36 PM",
       "hour_decimal": 15.6,
-      "height_ft": 1.69
+      "height_ft": 1.25
     },
     {
       "time": "3:42 PM",
       "hour_decimal": 15.7,
-      "height_ft": 1.71
+      "height_ft": 1.24
     },
     {
       "time": "3:48 PM",
       "hour_decimal": 15.8,
-      "height_ft": 1.73
+      "height_ft": 1.23
     },
     {
       "time": "3:54 PM",
       "hour_decimal": 15.9,
-      "height_ft": 1.76
+      "height_ft": 1.23
     },
     {
       "time": "4:00 PM",
       "hour_decimal": 16.0,
-      "height_ft": 1.79
+      "height_ft": 1.23
     },
     {
       "time": "4:06 PM",
       "hour_decimal": 16.1,
-      "height_ft": 1.83
+      "height_ft": 1.24
     },
     {
       "time": "4:12 PM",
       "hour_decimal": 16.2,
-      "height_ft": 1.87
+      "height_ft": 1.25
     },
     {
       "time": "4:18 PM",
       "hour_decimal": 16.3,
-      "height_ft": 1.91
+      "height_ft": 1.27
     },
     {
       "time": "4:24 PM",
       "hour_decimal": 16.4,
-      "height_ft": 1.96
+      "height_ft": 1.29
     },
     {
       "time": "4:30 PM",
       "hour_decimal": 16.5,
-      "height_ft": 2.01
+      "height_ft": 1.32
     },
     {
       "time": "4:36 PM",
       "hour_decimal": 16.6,
-      "height_ft": 2.07
+      "height_ft": 1.35
     },
     {
       "time": "4:42 PM",
       "hour_decimal": 16.7,
-      "height_ft": 2.13
+      "height_ft": 1.39
     },
     {
       "time": "4:48 PM",
       "hour_decimal": 16.8,
-      "height_ft": 2.19
+      "height_ft": 1.44
     },
     {
       "time": "4:54 PM",
       "hour_decimal": 16.9,
-      "height_ft": 2.26
+      "height_ft": 1.48
     },
     {
       "time": "5:00 PM",
       "hour_decimal": 17.0,
-      "height_ft": 2.33
+      "height_ft": 1.53
     },
     {
       "time": "5:06 PM",
       "hour_decimal": 17.1,
-      "height_ft": 2.4
+      "height_ft": 1.59
     },
     {
       "time": "5:12 PM",
       "hour_decimal": 17.2,
-      "height_ft": 2.48
+      "height_ft": 1.65
     },
     {
       "time": "5:18 PM",
       "hour_decimal": 17.3,
-      "height_ft": 2.56
+      "height_ft": 1.72
     },
     {
       "time": "5:24 PM",
       "hour_decimal": 17.4,
-      "height_ft": 2.64
+      "height_ft": 1.78
     },
     {
       "time": "5:30 PM",
       "hour_decimal": 17.5,
-      "height_ft": 2.72
+      "height_ft": 1.85
     },
     {
       "time": "5:36 PM",
       "hour_decimal": 17.6,
-      "height_ft": 2.81
+      "height_ft": 1.93
     },
     {
       "time": "5:42 PM",
       "hour_decimal": 17.7,
-      "height_ft": 2.9
+      "height_ft": 2.01
     },
     {
       "time": "5:48 PM",
       "hour_decimal": 17.8,
-      "height_ft": 2.98
+      "height_ft": 2.09
     },
     {
       "time": "5:54 PM",
       "hour_decimal": 17.9,
-      "height_ft": 3.07
+      "height_ft": 2.17
     },
     {
       "time": "6:00 PM",
       "hour_decimal": 18.0,
-      "height_ft": 3.16
+      "height_ft": 2.26
     },
     {
       "time": "6:06 PM",
       "hour_decimal": 18.1,
-      "height_ft": 3.26
+      "height_ft": 2.35
     },
     {
       "time": "6:12 PM",
       "hour_decimal": 18.2,
-      "height_ft": 3.35
+      "height_ft": 2.44
     },
     {
       "time": "6:18 PM",
       "hour_decimal": 18.3,
-      "height_ft": 3.44
+      "height_ft": 2.54
     },
     {
       "time": "6:24 PM",
       "hour_decimal": 18.4,
-      "height_ft": 3.53
+      "height_ft": 2.63
     },
     {
       "time": "6:30 PM",
       "hour_decimal": 18.5,
-      "height_ft": 3.63
+      "height_ft": 2.73
     },
     {
       "time": "6:36 PM",
       "hour_decimal": 18.6,
-      "height_ft": 3.72
+      "height_ft": 2.83
     },
     {
       "time": "6:42 PM",
       "hour_decimal": 18.7,
-      "height_ft": 3.81
+      "height_ft": 2.93
     },
     {
       "time": "6:48 PM",
       "hour_decimal": 18.8,
-      "height_ft": 3.9
+      "height_ft": 3.03
     },
     {
       "time": "6:54 PM",
       "hour_decimal": 18.9,
-      "height_ft": 3.99
+      "height_ft": 3.13
     },
     {
       "time": "7:00 PM",
       "hour_decimal": 19.0,
-      "height_ft": 4.08
+      "height_ft": 3.23
     },
     {
       "time": "7:06 PM",
       "hour_decimal": 19.1,
-      "height_ft": 4.16
+      "height_ft": 3.33
     },
     {
       "time": "7:12 PM",
       "hour_decimal": 19.2,
-      "height_ft": 4.25
+      "height_ft": 3.43
     },
     {
       "time": "7:18 PM",
       "hour_decimal": 19.3,
-      "height_ft": 4.33
+      "height_ft": 3.53
     },
     {
       "time": "7:24 PM",
       "hour_decimal": 19.4,
-      "height_ft": 4.41
+      "height_ft": 3.63
     },
     {
       "time": "7:30 PM",
       "hour_decimal": 19.5,
-      "height_ft": 4.49
+      "height_ft": 3.73
     },
     {
       "time": "7:36 PM",
       "hour_decimal": 19.6,
-      "height_ft": 4.56
+      "height_ft": 3.83
     },
     {
       "time": "7:42 PM",
       "hour_decimal": 19.7,
-      "height_ft": 4.64
+      "height_ft": 3.92
     },
     {
       "time": "7:48 PM",
       "hour_decimal": 19.8,
-      "height_ft": 4.7
+      "height_ft": 4.02
     },
     {
       "time": "7:54 PM",
       "hour_decimal": 19.9,
-      "height_ft": 4.77
+      "height_ft": 4.11
     },
     {
       "time": "8:00 PM",
       "hour_decimal": 20.0,
-      "height_ft": 4.83
+      "height_ft": 4.2
     },
     {
       "time": "8:06 PM",
       "hour_decimal": 20.1,
-      "height_ft": 4.89
+      "height_ft": 4.28
     },
     {
       "time": "8:12 PM",
       "hour_decimal": 20.2,
-      "height_ft": 4.94
+      "height_ft": 4.36
     },
     {
       "time": "8:18 PM",
       "hour_decimal": 20.3,
-      "height_ft": 4.99
+      "height_ft": 4.44
     },
     {
       "time": "8:24 PM",
       "hour_decimal": 20.4,
-      "height_ft": 5.04
+      "height_ft": 4.52
     },
     {
       "time": "8:30 PM",
       "hour_decimal": 20.5,
-      "height_ft": 5.08
+      "height_ft": 4.59
     },
     {
       "time": "8:36 PM",
       "hour_decimal": 20.6,
-      "height_ft": 5.11
+      "height_ft": 4.66
     },
     {
       "time": "8:42 PM",
       "hour_decimal": 20.7,
-      "height_ft": 5.14
+      "height_ft": 4.73
     },
     {
       "time": "8:48 PM",
       "hour_decimal": 20.8,
-      "height_ft": 5.17
+      "height_ft": 4.79
     },
     {
       "time": "8:54 PM",
       "hour_decimal": 20.9,
-      "height_ft": 5.19
+      "height_ft": 4.84
     },
     {
       "time": "9:00 PM",
       "hour_decimal": 21.0,
-      "height_ft": 5.21
+      "height_ft": 4.89
     },
     {
       "time": "9:06 PM",
       "hour_decimal": 21.1,
-      "height_ft": 5.21
+      "height_ft": 4.94
     },
     {
       "time": "9:12 PM",
       "hour_decimal": 21.2,
-      "height_ft": 5.22
+      "height_ft": 4.98
     },
     {
       "time": "9:18 PM",
       "hour_decimal": 21.3,
-      "height_ft": 5.22
+      "height_ft": 5.02
     },
     {
       "time": "9:24 PM",
       "hour_decimal": 21.4,
-      "height_ft": 5.21
+      "height_ft": 5.05
     },
     {
       "time": "9:30 PM",
       "hour_decimal": 21.5,
-      "height_ft": 5.2
+      "height_ft": 5.07
     },
     {
       "time": "9:36 PM",
       "hour_decimal": 21.6,
-      "height_ft": 5.19
+      "height_ft": 5.09
     },
     {
       "time": "9:42 PM",
       "hour_decimal": 21.7,
-      "height_ft": 5.16
+      "height_ft": 5.11
     },
     {
       "time": "9:48 PM",
       "hour_decimal": 21.8,
-      "height_ft": 5.14
+      "height_ft": 5.12
     },
     {
       "time": "9:54 PM",
       "hour_decimal": 21.9,
-      "height_ft": 5.1
+      "height_ft": 5.12
     },
     {
       "time": "10:00 PM",
       "hour_decimal": 22.0,
-      "height_ft": 5.07
+      "height_ft": 5.12
     },
     {
       "time": "10:06 PM",
       "hour_decimal": 22.1,
-      "height_ft": 5.02
+      "height_ft": 5.11
     },
     {
       "time": "10:12 PM",
       "hour_decimal": 22.2,
-      "height_ft": 4.97
+      "height_ft": 5.1
     },
     {
       "time": "10:18 PM",
       "hour_decimal": 22.3,
-      "height_ft": 4.92
+      "height_ft": 5.08
     },
     {
       "time": "10:24 PM",
       "hour_decimal": 22.4,
-      "height_ft": 4.86
+      "height_ft": 5.06
     },
     {
       "time": "10:30 PM",
       "hour_decimal": 22.5,
-      "height_ft": 4.8
+      "height_ft": 5.03
     },
     {
       "time": "10:36 PM",
       "hour_decimal": 22.6,
-      "height_ft": 4.73
+      "height_ft": 4.99
     },
     {
       "time": "10:42 PM",
       "hour_decimal": 22.7,
-      "height_ft": 4.66
+      "height_ft": 4.95
     },
     {
       "time": "10:48 PM",
       "hour_decimal": 22.8,
-      "height_ft": 4.58
+      "height_ft": 4.91
     },
     {
       "time": "10:54 PM",
       "hour_decimal": 22.9,
-      "height_ft": 4.5
+      "height_ft": 4.86
     },
     {
       "time": "11:00 PM",
       "hour_decimal": 23.0,
-      "height_ft": 4.42
+      "height_ft": 4.8
     },
     {
       "time": "11:06 PM",
       "hour_decimal": 23.1,
-      "height_ft": 4.33
+      "height_ft": 4.75
     },
     {
       "time": "11:12 PM",
       "hour_decimal": 23.2,
-      "height_ft": 4.24
+      "height_ft": 4.68
     },
     {
       "time": "11:18 PM",
       "hour_decimal": 23.3,
-      "height_ft": 4.14
+      "height_ft": 4.61
     },
     {
       "time": "11:24 PM",
       "hour_decimal": 23.4,
-      "height_ft": 4.05
+      "height_ft": 4.54
     },
     {
       "time": "11:30 PM",
       "hour_decimal": 23.5,
-      "height_ft": 3.95
+      "height_ft": 4.46
     },
     {
       "time": "11:36 PM",
       "hour_decimal": 23.6,
-      "height_ft": 3.84
+      "height_ft": 4.38
     },
     {
       "time": "11:42 PM",
       "hour_decimal": 23.7,
-      "height_ft": 3.74
+      "height_ft": 4.3
     },
     {
       "time": "11:48 PM",
       "hour_decimal": 23.8,
-      "height_ft": 3.63
+      "height_ft": 4.21
     },
     {
       "time": "11:54 PM",
       "hour_decimal": 23.9,
-      "height_ft": 3.52
+      "height_ft": 4.12
     }
   ],
   "tides": [
     {
       "type": "LOW",
-      "time": "3:16 AM",
-      "hour_decimal": 3.27,
-      "height_ft": 0.3
+      "time": "3:42 AM",
+      "hour_decimal": 3.7,
+      "height_ft": 0.5
     },
     {
       "type": "HIGH",
-      "time": "9:36 AM",
-      "hour_decimal": 9.6,
-      "height_ft": 4.7
+      "time": "9:56 AM",
+      "hour_decimal": 9.93,
+      "height_ft": 5.0
     },
     {
       "type": "LOW",
-      "time": "3:16 PM",
-      "hour_decimal": 15.27,
-      "height_ft": 1.7
+      "time": "3:54 PM",
+      "hour_decimal": 15.9,
+      "height_ft": 1.2
     },
     {
       "type": "HIGH",
-      "time": "9:15 PM",
-      "hour_decimal": 21.25,
-      "height_ft": 5.2
+      "time": "9:55 PM",
+      "hour_decimal": 21.92,
+      "height_ft": 5.1
     }
   ],
   "wind_forecast": [
-    {
-      "time": "11 PM",
-      "date": "Thu",
-      "hour": 23,
-      "temperature_f": 58,
-      "wind_speed": "5 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Patchy Fog"
-    },
     {
       "time": "12 AM",
       "date": "Fri",
@@ -1522,6 +1513,15 @@
       "date": "Sat",
       "hour": 5,
       "temperature_f": 60,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Patchy Fog"
+    },
+    {
+      "time": "6 AM",
+      "date": "Sat",
+      "hour": 6,
+      "temperature_f": 57,
       "wind_speed": "5 mph",
       "wind_direction": "N",
       "short_forecast": "Patchy Fog"
