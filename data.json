@@ -1,22 +1,22 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Thursday, October 8, 2026",
-  "updated_display": "11:54 AM PDT",
+  "updated_display": "12:22 PM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
     "wave_height_ft": 4.3,
-    "period_sec": 12.0,
-    "direction_deg": 224.0,
-    "water_temp_f": 73.2
+    "period_sec": 17.0,
+    "direction_deg": 206.0,
+    "water_temp_f": 73.9
   },
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
     "wave_height_ft": 5.6,
-    "period_sec": 11.0,
-    "direction_deg": 201.0,
-    "water_temp_f": null
+    "period_sec": 17.0,
+    "direction_deg": 234.0,
+    "water_temp_f": 66.7
   },
   "tide_curve": [
     {
@@ -1248,64 +1248,55 @@
   ],
   "wind_forecast": [
     {
-      "time": "11 AM",
-      "date": "Thu",
-      "hour": 11,
-      "temperature_f": 69,
-      "wind_speed": "5 mph",
-      "wind_direction": "WNW",
-      "short_forecast": "Sunny"
-    },
-    {
       "time": "12 PM",
       "date": "Thu",
       "hour": 12,
       "temperature_f": 76,
-      "wind_speed": "5 mph",
-      "wind_direction": "WNW",
-      "short_forecast": "Sunny"
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
+      "short_forecast": "Mostly Sunny"
     },
     {
       "time": "1 PM",
       "date": "Thu",
       "hour": 13,
-      "temperature_f": 75,
-      "wind_speed": "5 mph",
-      "wind_direction": "WNW",
-      "short_forecast": "Sunny"
+      "temperature_f": 76,
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
+      "short_forecast": "Mostly Sunny"
     },
     {
       "time": "2 PM",
       "date": "Thu",
       "hour": 14,
-      "temperature_f": 70,
-      "wind_speed": "5 mph",
+      "temperature_f": 72,
+      "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Mostly Sunny"
     },
     {
       "time": "3 PM",
       "date": "Thu",
       "hour": 15,
-      "temperature_f": 73,
-      "wind_speed": "5 mph",
+      "temperature_f": 75,
+      "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Mostly Sunny"
     },
     {
       "time": "4 PM",
       "date": "Thu",
       "hour": 16,
-      "temperature_f": 72,
-      "wind_speed": "5 mph",
+      "temperature_f": 75,
+      "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Mostly Sunny"
     },
     {
       "time": "5 PM",
       "date": "Thu",
       "hour": 17,
-      "temperature_f": 68,
+      "temperature_f": 72,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Patchy Fog"
@@ -1314,7 +1305,7 @@
       "time": "6 PM",
       "date": "Thu",
       "hour": 18,
-      "temperature_f": 67,
+      "temperature_f": 70,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Patchy Fog"
@@ -1323,7 +1314,7 @@
       "time": "7 PM",
       "date": "Thu",
       "hour": 19,
-      "temperature_f": 63,
+      "temperature_f": 66,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Patchy Fog"
@@ -1332,7 +1323,7 @@
       "time": "8 PM",
       "date": "Thu",
       "hour": 20,
-      "temperature_f": 63,
+      "temperature_f": 66,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1341,7 +1332,7 @@
       "time": "9 PM",
       "date": "Thu",
       "hour": 21,
-      "temperature_f": 62,
+      "temperature_f": 64,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1350,7 +1341,7 @@
       "time": "10 PM",
       "date": "Thu",
       "hour": 22,
-      "temperature_f": 62,
+      "temperature_f": 64,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1359,7 +1350,7 @@
       "time": "11 PM",
       "date": "Thu",
       "hour": 23,
-      "temperature_f": 63,
+      "temperature_f": 64,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1368,7 +1359,7 @@
       "time": "12 AM",
       "date": "Fri",
       "hour": 0,
-      "temperature_f": 62,
+      "temperature_f": 63,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1377,7 +1368,7 @@
       "time": "1 AM",
       "date": "Fri",
       "hour": 1,
-      "temperature_f": 62,
+      "temperature_f": 63,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1386,7 +1377,7 @@
       "time": "2 AM",
       "date": "Fri",
       "hour": 2,
-      "temperature_f": 62,
+      "temperature_f": 64,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1404,7 +1395,7 @@
       "time": "4 AM",
       "date": "Fri",
       "hour": 4,
-      "temperature_f": 59,
+      "temperature_f": 61,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1422,7 +1413,7 @@
       "time": "6 AM",
       "date": "Fri",
       "hour": 6,
-      "temperature_f": 58,
+      "temperature_f": 60,
       "wind_speed": "0 mph",
       "wind_direction": "",
       "short_forecast": "Patchy Fog"
@@ -1440,88 +1431,97 @@
       "time": "8 AM",
       "date": "Fri",
       "hour": 8,
-      "temperature_f": 60,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
-      "wind_direction": "WNW",
+      "wind_direction": "W",
       "short_forecast": "Patchy Fog"
     },
     {
       "time": "9 AM",
       "date": "Fri",
       "hour": 9,
-      "temperature_f": 66,
+      "temperature_f": 67,
       "wind_speed": "5 mph",
-      "wind_direction": "WNW",
+      "wind_direction": "W",
       "short_forecast": "Patchy Fog"
     },
     {
       "time": "10 AM",
       "date": "Fri",
       "hour": 10,
-      "temperature_f": 66,
+      "temperature_f": 68,
       "wind_speed": "5 mph",
-      "wind_direction": "WNW",
+      "wind_direction": "W",
       "short_forecast": "Patchy Fog"
     },
     {
       "time": "11 AM",
       "date": "Fri",
       "hour": 11,
-      "temperature_f": 63,
+      "temperature_f": 65,
       "wind_speed": "5 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Partly Sunny"
     },
     {
       "time": "12 PM",
       "date": "Fri",
       "hour": 12,
-      "temperature_f": 67,
+      "temperature_f": 68,
       "wind_speed": "5 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Partly Sunny"
     },
     {
       "time": "1 PM",
       "date": "Fri",
       "hour": 13,
-      "temperature_f": 66,
+      "temperature_f": 67,
       "wind_speed": "5 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Partly Sunny"
     },
     {
       "time": "2 PM",
       "date": "Fri",
       "hour": 14,
-      "temperature_f": 64,
+      "temperature_f": 66,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Partly Sunny"
     },
     {
       "time": "3 PM",
       "date": "Fri",
       "hour": 15,
-      "temperature_f": 66,
+      "temperature_f": 67,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Partly Sunny"
     },
     {
       "time": "4 PM",
       "date": "Fri",
       "hour": 16,
-      "temperature_f": 65,
+      "temperature_f": 66,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Sunny"
+      "short_forecast": "Partly Sunny"
     },
     {
       "time": "5 PM",
       "date": "Fri",
       "hour": 17,
       "temperature_f": 64,
+      "wind_speed": "5 mph",
+      "wind_direction": "W",
+      "short_forecast": "Patchy Fog"
+    },
+    {
+      "time": "6 PM",
+      "date": "Fri",
+      "hour": 18,
+      "temperature_f": 63,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Patchy Fog"
