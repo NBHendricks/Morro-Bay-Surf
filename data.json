@@ -1,14 +1,14 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Thursday, October 8, 2026",
-  "updated_display": "4:47 PM PDT",
+  "updated_display": "5:34 PM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
-    "wave_height_ft": 3.9,
+    "wave_height_ft": 4.3,
     "period_sec": 17.0,
-    "direction_deg": 236.0,
-    "water_temp_f": 75.9
+    "direction_deg": 220.0,
+    "water_temp_f": 76.1
   },
   "offshore": {
     "station": "46011",
@@ -16,7 +16,7 @@
     "wave_height_ft": null,
     "period_sec": null,
     "direction_deg": null,
-    "water_temp_f": 69.1
+    "water_temp_f": 69.3
   },
   "tide_curve": [
     {
@@ -1248,15 +1248,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "4 PM",
-      "date": "Thu",
-      "hour": 16,
-      "temperature_f": 75,
-      "wind_speed": "10 mph",
-      "wind_direction": "W",
-      "short_forecast": "Mostly Sunny"
-    },
-    {
       "time": "5 PM",
       "date": "Thu",
       "hour": 17,
@@ -1522,6 +1513,15 @@
       "date": "Fri",
       "hour": 22,
       "temperature_f": 58,
+      "wind_speed": "5 mph",
+      "wind_direction": "W",
+      "short_forecast": "Patchy Fog"
+    },
+    {
+      "time": "11 PM",
+      "date": "Fri",
+      "hour": 23,
+      "temperature_f": 59,
       "wind_speed": "5 mph",
       "wind_direction": "W",
       "short_forecast": "Patchy Fog"
