@@ -1,22 +1,22 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Tuesday, October 13, 2026",
-  "updated_display": "6:08 PM PDT",
+  "updated_display": "11:39 PM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
     "wave_height_ft": 4.6,
     "period_sec": 17.0,
-    "direction_deg": 203.0,
-    "water_temp_f": 65.3
+    "direction_deg": 207.0,
+    "water_temp_f": 63.7
   },
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
-    "wave_height_ft": 6.9,
-    "period_sec": 16.0,
-    "direction_deg": 232.0,
-    "water_temp_f": 67.8
+    "wave_height_ft": null,
+    "period_sec": null,
+    "direction_deg": null,
+    "water_temp_f": 67.1
   },
   "tide_curve": [
     {
@@ -1248,51 +1248,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "6 PM",
-      "date": "Tue",
-      "hour": 18,
-      "temperature_f": 58,
-      "wind_speed": "15 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "7 PM",
-      "date": "Tue",
-      "hour": 19,
-      "temperature_f": 55,
-      "wind_speed": "15 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "8 PM",
-      "date": "Tue",
-      "hour": 20,
-      "temperature_f": 57,
-      "wind_speed": "5 mph",
-      "wind_direction": "NNW",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "9 PM",
-      "date": "Tue",
-      "hour": 21,
-      "temperature_f": 54,
-      "wind_speed": "5 mph",
-      "wind_direction": "NNW",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "10 PM",
-      "date": "Tue",
-      "hour": 22,
-      "temperature_f": 52,
-      "wind_speed": "5 mph",
-      "wind_direction": "NNW",
-      "short_forecast": "Mostly Clear"
-    },
-    {
       "time": "11 PM",
       "date": "Tue",
       "hour": 23,
@@ -1522,6 +1477,51 @@
       "date": "Thu",
       "hour": 0,
       "temperature_f": 56,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "1 AM",
+      "date": "Thu",
+      "hour": 1,
+      "temperature_f": 55,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "2 AM",
+      "date": "Thu",
+      "hour": 2,
+      "temperature_f": 56,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "3 AM",
+      "date": "Thu",
+      "hour": 3,
+      "temperature_f": 56,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "4 AM",
+      "date": "Thu",
+      "hour": 4,
+      "temperature_f": 57,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "5 AM",
+      "date": "Thu",
+      "hour": 5,
+      "temperature_f": 58,
       "wind_speed": "10 mph",
       "wind_direction": "NNE",
       "short_forecast": "Mostly Clear"
