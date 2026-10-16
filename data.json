@@ -1,14 +1,14 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Friday, October 16, 2026",
-  "updated_display": "7:45 AM PDT",
+  "updated_display": "11:45 AM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
     "wave_height_ft": 3.0,
     "period_sec": 15.0,
-    "direction_deg": 230.0,
-    "water_temp_f": 64.2
+    "direction_deg": 222.0,
+    "water_temp_f": 64.6
   },
   "offshore": {
     "station": "46011",
@@ -1236,46 +1236,10 @@
   ],
   "wind_forecast": [
     {
-      "time": "7 AM",
-      "date": "Fri",
-      "hour": 7,
-      "temperature_f": 60,
-      "wind_speed": "15 mph",
-      "wind_direction": "NE",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "8 AM",
-      "date": "Fri",
-      "hour": 8,
-      "temperature_f": 62,
-      "wind_speed": "20 mph",
-      "wind_direction": "NE",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "9 AM",
-      "date": "Fri",
-      "hour": 9,
-      "temperature_f": 70,
-      "wind_speed": "20 mph",
-      "wind_direction": "NE",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "10 AM",
-      "date": "Fri",
-      "hour": 10,
-      "temperature_f": 73,
-      "wind_speed": "20 mph",
-      "wind_direction": "NE",
-      "short_forecast": "Sunny"
-    },
-    {
       "time": "11 AM",
       "date": "Fri",
       "hour": 11,
-      "temperature_f": 75,
+      "temperature_f": 74,
       "wind_speed": "20 mph",
       "wind_direction": "ENE",
       "short_forecast": "Sunny"
@@ -1284,7 +1248,7 @@
       "time": "12 PM",
       "date": "Fri",
       "hour": 12,
-      "temperature_f": 80,
+      "temperature_f": 81,
       "wind_speed": "20 mph",
       "wind_direction": "ENE",
       "short_forecast": "Sunny"
@@ -1302,7 +1266,7 @@
       "time": "2 PM",
       "date": "Fri",
       "hour": 14,
-      "temperature_f": 82,
+      "temperature_f": 80,
       "wind_speed": "15 mph",
       "wind_direction": "NE",
       "short_forecast": "Sunny"
@@ -1311,7 +1275,7 @@
       "time": "3 PM",
       "date": "Fri",
       "hour": 15,
-      "temperature_f": 81,
+      "temperature_f": 79,
       "wind_speed": "15 mph",
       "wind_direction": "NE",
       "short_forecast": "Sunny"
@@ -1320,7 +1284,7 @@
       "time": "4 PM",
       "date": "Fri",
       "hour": 16,
-      "temperature_f": 76,
+      "temperature_f": 72,
       "wind_speed": "15 mph",
       "wind_direction": "NE",
       "short_forecast": "Sunny"
@@ -1329,7 +1293,7 @@
       "time": "5 PM",
       "date": "Fri",
       "hour": 17,
-      "temperature_f": 69,
+      "temperature_f": 66,
       "wind_speed": "10 mph",
       "wind_direction": "ENE",
       "short_forecast": "Sunny"
@@ -1338,162 +1302,162 @@
       "time": "6 PM",
       "date": "Fri",
       "hour": 18,
-      "temperature_f": 68,
+      "temperature_f": 65,
       "wind_speed": "10 mph",
       "wind_direction": "ENE",
-      "short_forecast": "Mostly Clear"
+      "short_forecast": "Clear"
     },
     {
       "time": "7 PM",
       "date": "Fri",
       "hour": 19,
-      "temperature_f": 65,
+      "temperature_f": 62,
       "wind_speed": "10 mph",
       "wind_direction": "ENE",
-      "short_forecast": "Mostly Clear"
+      "short_forecast": "Clear"
     },
     {
       "time": "8 PM",
       "date": "Fri",
       "hour": 20,
-      "temperature_f": 64,
+      "temperature_f": 61,
       "wind_speed": "10 mph",
       "wind_direction": "E",
-      "short_forecast": "Mostly Clear"
+      "short_forecast": "Clear"
     },
     {
       "time": "9 PM",
       "date": "Fri",
       "hour": 21,
-      "temperature_f": 64,
+      "temperature_f": 62,
       "wind_speed": "10 mph",
       "wind_direction": "E",
-      "short_forecast": "Mostly Clear"
+      "short_forecast": "Clear"
     },
     {
       "time": "10 PM",
       "date": "Fri",
       "hour": 22,
-      "temperature_f": 64,
+      "temperature_f": 63,
       "wind_speed": "10 mph",
       "wind_direction": "E",
-      "short_forecast": "Mostly Clear"
+      "short_forecast": "Clear"
     },
     {
       "time": "11 PM",
       "date": "Fri",
       "hour": 23,
-      "temperature_f": 65,
+      "temperature_f": 62,
       "wind_speed": "10 mph",
       "wind_direction": "ENE",
-      "short_forecast": "Mostly Clear"
+      "short_forecast": "Clear"
     },
     {
       "time": "12 AM",
       "date": "Sat",
       "hour": 0,
-      "temperature_f": 66,
+      "temperature_f": 62,
       "wind_speed": "10 mph",
       "wind_direction": "ENE",
-      "short_forecast": "Mostly Clear"
+      "short_forecast": "Clear"
     },
     {
       "time": "1 AM",
       "date": "Sat",
       "hour": 1,
-      "temperature_f": 66,
+      "temperature_f": 61,
       "wind_speed": "10 mph",
       "wind_direction": "ENE",
-      "short_forecast": "Mostly Clear"
+      "short_forecast": "Clear"
     },
     {
       "time": "2 AM",
       "date": "Sat",
       "hour": 2,
-      "temperature_f": 65,
-      "wind_speed": "10 mph",
-      "wind_direction": "ENE",
-      "short_forecast": "Mostly Clear"
+      "temperature_f": 62,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
+      "short_forecast": "Clear"
     },
     {
       "time": "3 AM",
       "date": "Sat",
       "hour": 3,
-      "temperature_f": 66,
-      "wind_speed": "10 mph",
-      "wind_direction": "ENE",
-      "short_forecast": "Mostly Clear"
+      "temperature_f": 61,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
+      "short_forecast": "Clear"
     },
     {
       "time": "4 AM",
       "date": "Sat",
       "hour": 4,
-      "temperature_f": 65,
-      "wind_speed": "10 mph",
-      "wind_direction": "ENE",
-      "short_forecast": "Mostly Clear"
+      "temperature_f": 61,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
+      "short_forecast": "Clear"
     },
     {
       "time": "5 AM",
       "date": "Sat",
       "hour": 5,
-      "temperature_f": 64,
-      "wind_speed": "10 mph",
-      "wind_direction": "ENE",
+      "temperature_f": 60,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
       "short_forecast": "Mostly Clear"
     },
     {
       "time": "6 AM",
       "date": "Sat",
       "hour": 6,
-      "temperature_f": 67,
-      "wind_speed": "10 mph",
-      "wind_direction": "ENE",
+      "temperature_f": 65,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
       "short_forecast": "Sunny"
     },
     {
       "time": "7 AM",
       "date": "Sat",
       "hour": 7,
-      "temperature_f": 69,
-      "wind_speed": "10 mph",
-      "wind_direction": "ENE",
+      "temperature_f": 68,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
       "short_forecast": "Sunny"
     },
     {
       "time": "8 AM",
       "date": "Sat",
       "hour": 8,
-      "temperature_f": 69,
-      "wind_speed": "10 mph",
-      "wind_direction": "NE",
+      "temperature_f": 68,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
       "short_forecast": "Sunny"
     },
     {
       "time": "9 AM",
       "date": "Sat",
       "hour": 9,
-      "temperature_f": 77,
-      "wind_speed": "10 mph",
-      "wind_direction": "NE",
+      "temperature_f": 75,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
       "short_forecast": "Sunny"
     },
     {
       "time": "10 AM",
       "date": "Sat",
       "hour": 10,
-      "temperature_f": 82,
-      "wind_speed": "10 mph",
-      "wind_direction": "NE",
+      "temperature_f": 81,
+      "wind_speed": "15 mph",
+      "wind_direction": "E",
       "short_forecast": "Sunny"
     },
     {
       "time": "11 AM",
       "date": "Sat",
       "hour": 11,
-      "temperature_f": 83,
-      "wind_speed": "10 mph",
-      "wind_direction": "SSW",
+      "temperature_f": 81,
+      "wind_speed": "15 mph",
+      "wind_direction": "ENE",
       "short_forecast": "Sunny"
     },
     {
@@ -1501,17 +1465,53 @@
       "date": "Sat",
       "hour": 12,
       "temperature_f": 84,
-      "wind_speed": "10 mph",
-      "wind_direction": "SSW",
+      "wind_speed": "15 mph",
+      "wind_direction": "ENE",
       "short_forecast": "Sunny"
     },
     {
       "time": "1 PM",
       "date": "Sat",
       "hour": 13,
-      "temperature_f": 83,
+      "temperature_f": 84,
+      "wind_speed": "15 mph",
+      "wind_direction": "ENE",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "2 PM",
+      "date": "Sat",
+      "hour": 14,
+      "temperature_f": 72,
       "wind_speed": "10 mph",
-      "wind_direction": "SSW",
+      "wind_direction": "N",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "3 PM",
+      "date": "Sat",
+      "hour": 15,
+      "temperature_f": 71,
+      "wind_speed": "10 mph",
+      "wind_direction": "N",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "4 PM",
+      "date": "Sat",
+      "hour": 16,
+      "temperature_f": 69,
+      "wind_speed": "10 mph",
+      "wind_direction": "N",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "5 PM",
+      "date": "Sat",
+      "hour": 17,
+      "temperature_f": 65,
+      "wind_speed": "5 mph",
+      "wind_direction": "W",
       "short_forecast": "Sunny"
     }
   ]
