@@ -1,13 +1,13 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Saturday, October 17, 2026",
-  "updated_display": "6:08 AM PDT",
+  "updated_display": "9:37 AM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
     "wave_height_ft": 3.0,
     "period_sec": 13.0,
-    "direction_deg": 255.0,
+    "direction_deg": 240.0,
     "water_temp_f": 67.3
   },
   "offshore": {
@@ -16,7 +16,7 @@
     "wave_height_ft": null,
     "period_sec": null,
     "direction_deg": null,
-    "water_temp_f": 68.5
+    "water_temp_f": 68.9
   },
   "tide_curve": [
     {
@@ -1236,33 +1236,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "6 AM",
-      "date": "Sat",
-      "hour": 6,
-      "temperature_f": 65,
-      "wind_speed": "15 mph",
-      "wind_direction": "E",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "7 AM",
-      "date": "Sat",
-      "hour": 7,
-      "temperature_f": 66,
-      "wind_speed": "15 mph",
-      "wind_direction": "E",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "8 AM",
-      "date": "Sat",
-      "hour": 8,
-      "temperature_f": 69,
-      "wind_speed": "15 mph",
-      "wind_direction": "E",
-      "short_forecast": "Sunny"
-    },
-    {
       "time": "9 AM",
       "date": "Sat",
       "hour": 9,
@@ -1511,6 +1484,33 @@
       "hour": 12,
       "temperature_f": 73,
       "wind_speed": "5 mph",
+      "wind_direction": "W",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "1 PM",
+      "date": "Sun",
+      "hour": 13,
+      "temperature_f": 70,
+      "wind_speed": "5 mph",
+      "wind_direction": "W",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "2 PM",
+      "date": "Sun",
+      "hour": 14,
+      "temperature_f": 67,
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "3 PM",
+      "date": "Sun",
+      "hour": 15,
+      "temperature_f": 69,
+      "wind_speed": "10 mph",
       "wind_direction": "W",
       "short_forecast": "Sunny"
     }
