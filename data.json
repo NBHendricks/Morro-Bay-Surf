@@ -1,22 +1,22 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Thursday, October 22, 2026",
-  "updated_display": "3:41 PM PDT",
+  "updated_display": "6:25 PM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
-    "wave_height_ft": 4.3,
+    "wave_height_ft": 3.9,
     "period_sec": 13.0,
-    "direction_deg": 209.0,
-    "water_temp_f": 68.5
+    "direction_deg": 231.0,
+    "water_temp_f": 68.9
   },
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
-    "wave_height_ft": 5.2,
-    "period_sec": 11.0,
-    "direction_deg": 297.0,
-    "water_temp_f": 68.4
+    "wave_height_ft": 4.9,
+    "period_sec": 14.0,
+    "direction_deg": 185.0,
+    "water_temp_f": 68.0
   },
   "tide_curve": [
     {
@@ -1248,33 +1248,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "3 PM",
-      "date": "Thu",
-      "hour": 15,
-      "temperature_f": 60,
-      "wind_speed": "10 mph",
-      "wind_direction": "WSW",
-      "short_forecast": "Rain Showers Likely"
-    },
-    {
-      "time": "4 PM",
-      "date": "Thu",
-      "hour": 16,
-      "temperature_f": 61,
-      "wind_speed": "10 mph",
-      "wind_direction": "WSW",
-      "short_forecast": "Rain Showers Likely"
-    },
-    {
-      "time": "5 PM",
-      "date": "Thu",
-      "hour": 17,
-      "temperature_f": 61,
-      "wind_speed": "10 mph",
-      "wind_direction": "WNW",
-      "short_forecast": "Chance Rain Showers"
-    },
-    {
       "time": "6 PM",
       "date": "Thu",
       "hour": 18,
@@ -1525,6 +1498,33 @@
       "wind_speed": "5 mph",
       "wind_direction": "NNE",
       "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "10 PM",
+      "date": "Fri",
+      "hour": 22,
+      "temperature_f": 64,
+      "wind_speed": "5 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "11 PM",
+      "date": "Fri",
+      "hour": 23,
+      "temperature_f": 64,
+      "wind_speed": "5 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "12 AM",
+      "date": "Sat",
+      "hour": 0,
+      "temperature_f": 59,
+      "wind_speed": "5 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Clear"
     }
   ]
 }
