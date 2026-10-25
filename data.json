@@ -1,13 +1,13 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Sunday, October 25, 2026",
-  "updated_display": "2:20 AM PDT",
+  "updated_display": "6:53 AM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
-    "wave_height_ft": 4.3,
+    "wave_height_ft": 3.9,
     "period_sec": 10.0,
-    "direction_deg": 299.0,
+    "direction_deg": 297.0,
     "water_temp_f": 68.9
   },
   "offshore": {
@@ -16,7 +16,7 @@
     "wave_height_ft": null,
     "period_sec": null,
     "direction_deg": null,
-    "water_temp_f": 68.4
+    "water_temp_f": 68.0
   },
   "tide_curve": [
     {
@@ -1248,42 +1248,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "2 AM",
-      "date": "Sun",
-      "hour": 2,
-      "temperature_f": 56,
-      "wind_speed": "5 mph",
-      "wind_direction": "NE",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "3 AM",
-      "date": "Sun",
-      "hour": 3,
-      "temperature_f": 56,
-      "wind_speed": "5 mph",
-      "wind_direction": "NE",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "4 AM",
-      "date": "Sun",
-      "hour": 4,
-      "temperature_f": 56,
-      "wind_speed": "5 mph",
-      "wind_direction": "NE",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "5 AM",
-      "date": "Sun",
-      "hour": 5,
-      "temperature_f": 56,
-      "wind_speed": "5 mph",
-      "wind_direction": "NE",
-      "short_forecast": "Partly Cloudy"
-    },
-    {
       "time": "6 AM",
       "date": "Sun",
       "hour": 6,
@@ -1525,6 +1489,42 @@
       "wind_speed": "5 mph",
       "wind_direction": "N",
       "short_forecast": "Patchy Fog"
+    },
+    {
+      "time": "9 AM",
+      "date": "Mon",
+      "hour": 9,
+      "temperature_f": 60,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Patchy Fog"
+    },
+    {
+      "time": "10 AM",
+      "date": "Mon",
+      "hour": 10,
+      "temperature_f": 67,
+      "wind_speed": "5 mph",
+      "wind_direction": "N",
+      "short_forecast": "Patchy Fog"
+    },
+    {
+      "time": "11 AM",
+      "date": "Mon",
+      "hour": 11,
+      "temperature_f": 64,
+      "wind_speed": "10 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Sunny"
+    },
+    {
+      "time": "12 PM",
+      "date": "Mon",
+      "hour": 12,
+      "temperature_f": 69,
+      "wind_speed": "10 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Sunny"
     }
   ]
 }
