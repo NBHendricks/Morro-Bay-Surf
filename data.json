@@ -1,22 +1,22 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Friday, October 30, 2026",
-  "updated_display": "6:27 AM PDT",
+  "updated_display": "11:48 AM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
-    "wave_height_ft": 4.3,
-    "period_sec": 14.0,
-    "direction_deg": 236.0,
+    "wave_height_ft": 4.6,
+    "period_sec": 15.0,
+    "direction_deg": 227.0,
     "water_temp_f": 68.7
   },
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
-    "wave_height_ft": null,
-    "period_sec": null,
-    "direction_deg": null,
-    "water_temp_f": 68.7
+    "wave_height_ft": 5.6,
+    "period_sec": 15.0,
+    "direction_deg": 208.0,
+    "water_temp_f": 68.4
   },
   "tide_curve": [
     {
@@ -1248,76 +1248,31 @@
   ],
   "wind_forecast": [
     {
-      "time": "6 AM",
-      "date": "Fri",
-      "hour": 6,
-      "temperature_f": 57,
-      "wind_speed": "5 mph",
-      "wind_direction": "WNW",
-      "short_forecast": "Chance Light Rain"
-    },
-    {
-      "time": "7 AM",
-      "date": "Fri",
-      "hour": 7,
-      "temperature_f": 57,
-      "wind_speed": "5 mph",
-      "wind_direction": "WNW",
-      "short_forecast": "Chance Light Rain"
-    },
-    {
-      "time": "8 AM",
-      "date": "Fri",
-      "hour": 8,
-      "temperature_f": 57,
-      "wind_speed": "5 mph",
-      "wind_direction": "W",
-      "short_forecast": "Chance Light Rain"
-    },
-    {
-      "time": "9 AM",
-      "date": "Fri",
-      "hour": 9,
-      "temperature_f": 57,
-      "wind_speed": "5 mph",
-      "wind_direction": "W",
-      "short_forecast": "Chance Light Rain"
-    },
-    {
-      "time": "10 AM",
-      "date": "Fri",
-      "hour": 10,
-      "temperature_f": 57,
-      "wind_speed": "5 mph",
-      "wind_direction": "W",
-      "short_forecast": "Chance Light Rain"
-    },
-    {
       "time": "11 AM",
       "date": "Fri",
       "hour": 11,
       "temperature_f": 57,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Scattered Rain Showers"
     },
     {
       "time": "12 PM",
       "date": "Fri",
       "hour": 12,
-      "temperature_f": 64,
+      "temperature_f": 61,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Scattered Rain Showers"
     },
     {
       "time": "1 PM",
       "date": "Fri",
       "hour": 13,
-      "temperature_f": 64,
+      "temperature_f": 61,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Scattered Rain Showers"
     },
     {
       "time": "2 PM",
@@ -1326,7 +1281,7 @@
       "temperature_f": 64,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Scattered Rain Showers"
     },
     {
       "time": "3 PM",
@@ -1335,7 +1290,7 @@
       "temperature_f": 64,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Scattered Rain Showers"
     },
     {
       "time": "4 PM",
@@ -1344,70 +1299,70 @@
       "temperature_f": 64,
       "wind_speed": "10 mph",
       "wind_direction": "W",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Scattered Rain Showers"
     },
     {
       "time": "5 PM",
       "date": "Fri",
       "hour": 17,
       "temperature_f": 64,
-      "wind_speed": "5 mph",
-      "wind_direction": "WNW",
-      "short_forecast": "Mostly Cloudy"
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
+      "short_forecast": "Partly Sunny"
     },
     {
       "time": "6 PM",
       "date": "Fri",
       "hour": 18,
-      "temperature_f": 63,
-      "wind_speed": "5 mph",
-      "wind_direction": "WNW",
+      "temperature_f": 62,
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
       "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "7 PM",
       "date": "Fri",
       "hour": 19,
-      "temperature_f": 61,
-      "wind_speed": "5 mph",
-      "wind_direction": "WNW",
+      "temperature_f": 62,
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
       "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "8 PM",
       "date": "Fri",
       "hour": 20,
-      "temperature_f": 63,
+      "temperature_f": 62,
       "wind_speed": "5 mph",
-      "wind_direction": "WNW",
+      "wind_direction": "W",
       "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "9 PM",
       "date": "Fri",
       "hour": 21,
-      "temperature_f": 61,
+      "temperature_f": 62,
       "wind_speed": "5 mph",
-      "wind_direction": "WNW",
+      "wind_direction": "W",
       "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "10 PM",
       "date": "Fri",
       "hour": 22,
-      "temperature_f": 61,
+      "temperature_f": 57,
       "wind_speed": "5 mph",
-      "wind_direction": "WNW",
+      "wind_direction": "W",
       "short_forecast": "Mostly Cloudy"
     },
     {
       "time": "11 PM",
       "date": "Fri",
       "hour": 23,
-      "temperature_f": 63,
+      "temperature_f": 60,
       "wind_speed": "5 mph",
-      "wind_direction": "SSE",
-      "short_forecast": "Cloudy"
+      "wind_direction": "E",
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "12 AM",
@@ -1415,116 +1370,161 @@
       "hour": 0,
       "temperature_f": 60,
       "wind_speed": "5 mph",
-      "wind_direction": "SSE",
-      "short_forecast": "Cloudy"
+      "wind_direction": "E",
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "1 AM",
       "date": "Sat",
       "hour": 1,
-      "temperature_f": 58,
+      "temperature_f": 60,
       "wind_speed": "5 mph",
-      "wind_direction": "SSE",
-      "short_forecast": "Cloudy"
+      "wind_direction": "E",
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "2 AM",
       "date": "Sat",
       "hour": 2,
-      "temperature_f": 57,
+      "temperature_f": 60,
       "wind_speed": "5 mph",
       "wind_direction": "E",
-      "short_forecast": "Cloudy"
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "3 AM",
       "date": "Sat",
       "hour": 3,
-      "temperature_f": 55,
+      "temperature_f": 57,
       "wind_speed": "5 mph",
       "wind_direction": "E",
-      "short_forecast": "Cloudy"
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "4 AM",
       "date": "Sat",
       "hour": 4,
-      "temperature_f": 55,
+      "temperature_f": 57,
       "wind_speed": "5 mph",
       "wind_direction": "E",
-      "short_forecast": "Cloudy"
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "5 AM",
       "date": "Sat",
       "hour": 5,
-      "temperature_f": 55,
+      "temperature_f": 57,
       "wind_speed": "5 mph",
       "wind_direction": "E",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "6 AM",
       "date": "Sat",
       "hour": 6,
-      "temperature_f": 56,
+      "temperature_f": 57,
       "wind_speed": "5 mph",
       "wind_direction": "E",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "7 AM",
       "date": "Sat",
       "hour": 7,
-      "temperature_f": 56,
+      "temperature_f": 55,
       "wind_speed": "5 mph",
       "wind_direction": "E",
-      "short_forecast": "Slight Chance Light Rain"
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "8 AM",
       "date": "Sat",
       "hour": 8,
-      "temperature_f": 57,
-      "wind_speed": "0 mph",
-      "wind_direction": "",
-      "short_forecast": "Slight Chance Light Rain"
+      "temperature_f": 58,
+      "wind_speed": "5 mph",
+      "wind_direction": "ESE",
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "9 AM",
       "date": "Sat",
       "hour": 9,
-      "temperature_f": 59,
-      "wind_speed": "0 mph",
-      "wind_direction": "",
-      "short_forecast": "Slight Chance Light Rain"
+      "temperature_f": 58,
+      "wind_speed": "5 mph",
+      "wind_direction": "ESE",
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "10 AM",
       "date": "Sat",
       "hour": 10,
-      "temperature_f": 60,
-      "wind_speed": "0 mph",
-      "wind_direction": "",
-      "short_forecast": "Slight Chance Light Rain"
+      "temperature_f": 61,
+      "wind_speed": "5 mph",
+      "wind_direction": "ESE",
+      "short_forecast": "Slight Chance Rain Showers"
     },
     {
       "time": "11 AM",
       "date": "Sat",
       "hour": 11,
-      "temperature_f": 60,
+      "temperature_f": 61,
       "wind_speed": "5 mph",
       "wind_direction": "W",
-      "short_forecast": "Chance Light Rain"
+      "short_forecast": "Rain Showers Likely"
     },
     {
       "time": "12 PM",
       "date": "Sat",
       "hour": 12,
+      "temperature_f": 61,
+      "wind_speed": "5 mph",
+      "wind_direction": "W",
+      "short_forecast": "Rain Showers Likely"
+    },
+    {
+      "time": "1 PM",
+      "date": "Sat",
+      "hour": 13,
       "temperature_f": 60,
       "wind_speed": "5 mph",
       "wind_direction": "W",
-      "short_forecast": "Chance Light Rain"
+      "short_forecast": "Rain Showers Likely"
+    },
+    {
+      "time": "2 PM",
+      "date": "Sat",
+      "hour": 14,
+      "temperature_f": 60,
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
+      "short_forecast": "Rain Showers Likely"
+    },
+    {
+      "time": "3 PM",
+      "date": "Sat",
+      "hour": 15,
+      "temperature_f": 59,
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
+      "short_forecast": "Rain Showers Likely"
+    },
+    {
+      "time": "4 PM",
+      "date": "Sat",
+      "hour": 16,
+      "temperature_f": 58,
+      "wind_speed": "10 mph",
+      "wind_direction": "W",
+      "short_forecast": "Rain Showers Likely"
+    },
+    {
+      "time": "5 PM",
+      "date": "Sat",
+      "hour": 17,
+      "temperature_f": 58,
+      "wind_speed": "5 mph",
+      "wind_direction": "WNW",
+      "short_forecast": "Light Rain"
     }
   ]
 }
