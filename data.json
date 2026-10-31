@@ -1,22 +1,22 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Saturday, October 31, 2026",
-  "updated_display": "12:30 PM PDT",
+  "updated_display": "3:46 PM PDT",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
-    "wave_height_ft": 3.6,
-    "period_sec": 15.0,
-    "direction_deg": 224.0,
+    "wave_height_ft": 3.3,
+    "period_sec": 14.0,
+    "direction_deg": 222.0,
     "water_temp_f": 68.4
   },
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
-    "wave_height_ft": 3.6,
-    "period_sec": 15.0,
+    "wave_height_ft": 4.3,
+    "period_sec": null,
     "direction_deg": 193.0,
-    "water_temp_f": 67.6
+    "water_temp_f": 67.8
   },
   "tide_curve": [
     {
@@ -1248,33 +1248,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "12 PM",
-      "date": "Sat",
-      "hour": 12,
-      "temperature_f": 60,
-      "wind_speed": "5 mph",
-      "wind_direction": "W",
-      "short_forecast": "Chance Rain Showers"
-    },
-    {
-      "time": "1 PM",
-      "date": "Sat",
-      "hour": 13,
-      "temperature_f": 61,
-      "wind_speed": "5 mph",
-      "wind_direction": "W",
-      "short_forecast": "Chance Rain Showers"
-    },
-    {
-      "time": "2 PM",
-      "date": "Sat",
-      "hour": 14,
-      "temperature_f": 61,
-      "wind_speed": "10 mph",
-      "wind_direction": "W",
-      "short_forecast": "Chance Rain Showers"
-    },
-    {
       "time": "3 PM",
       "date": "Sat",
       "hour": 15,
@@ -1533,6 +1506,33 @@
       "temperature_f": 58,
       "wind_speed": "20 mph",
       "wind_direction": "NW",
+      "short_forecast": "Clear"
+    },
+    {
+      "time": "7 PM",
+      "date": "Sun",
+      "hour": 19,
+      "temperature_f": 58,
+      "wind_speed": "10 mph",
+      "wind_direction": "N",
+      "short_forecast": "Clear"
+    },
+    {
+      "time": "8 PM",
+      "date": "Sun",
+      "hour": 20,
+      "temperature_f": 57,
+      "wind_speed": "10 mph",
+      "wind_direction": "N",
+      "short_forecast": "Clear"
+    },
+    {
+      "time": "9 PM",
+      "date": "Sun",
+      "hour": 21,
+      "temperature_f": 55,
+      "wind_speed": "10 mph",
+      "wind_direction": "N",
       "short_forecast": "Clear"
     }
   ]
