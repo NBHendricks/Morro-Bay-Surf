@@ -1,22 +1,22 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Saturday, November 7, 2026",
-  "updated_display": "2:14 PM PST",
+  "updated_display": "5:45 PM PST",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
     "wave_height_ft": 5.6,
-    "period_sec": 15.0,
-    "direction_deg": 261.0,
-    "water_temp_f": 72.3
+    "period_sec": 13.0,
+    "direction_deg": 269.0,
+    "water_temp_f": 70.9
   },
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
-    "wave_height_ft": 7.5,
-    "period_sec": 16.0,
-    "direction_deg": 302.0,
-    "water_temp_f": 70.0
+    "wave_height_ft": 7.9,
+    "period_sec": null,
+    "direction_deg": 306.0,
+    "water_temp_f": null
   },
   "tide_curve": [
     {
@@ -1248,33 +1248,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "2 PM",
-      "date": "Sat",
-      "hour": 14,
-      "temperature_f": 72,
-      "wind_speed": "10 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "3 PM",
-      "date": "Sat",
-      "hour": 15,
-      "temperature_f": 71,
-      "wind_speed": "10 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "4 PM",
-      "date": "Sat",
-      "hour": 16,
-      "temperature_f": 71,
-      "wind_speed": "10 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Mostly Sunny"
-    },
-    {
       "time": "5 PM",
       "date": "Sat",
       "hour": 17,
@@ -1525,6 +1498,33 @@
       "wind_speed": "5 mph",
       "wind_direction": "NNE",
       "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "9 PM",
+      "date": "Sun",
+      "hour": 21,
+      "temperature_f": 63,
+      "wind_speed": "5 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Mostly Clear"
+    },
+    {
+      "time": "10 PM",
+      "date": "Sun",
+      "hour": 22,
+      "temperature_f": 62,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Partly Cloudy"
+    },
+    {
+      "time": "11 PM",
+      "date": "Sun",
+      "hour": 23,
+      "temperature_f": 60,
+      "wind_speed": "10 mph",
+      "wind_direction": "NNE",
+      "short_forecast": "Partly Cloudy"
     }
   ]
 }
