@@ -1,22 +1,22 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Wednesday, November 11, 2026",
-  "updated_display": "3:39 PM PST",
+  "updated_display": "10:59 PM PST",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
-    "wave_height_ft": 6.6,
+    "wave_height_ft": 5.9,
     "period_sec": 13.0,
-    "direction_deg": 260.0,
-    "water_temp_f": 72.3
+    "direction_deg": 268.0,
+    "water_temp_f": 69.3
   },
   "offshore": {
     "station": "46011",
     "name": "Santa Maria Offshore",
-    "wave_height_ft": 8.2,
-    "period_sec": null,
-    "direction_deg": 297.0,
-    "water_temp_f": 72.1
+    "wave_height_ft": 7.2,
+    "period_sec": 14.0,
+    "direction_deg": 293.0,
+    "water_temp_f": null
   },
   "tide_curve": [
     {
@@ -1242,69 +1242,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "3 PM",
-      "date": "Wed",
-      "hour": 15,
-      "temperature_f": 69,
-      "wind_speed": "5 mph",
-      "wind_direction": "W",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "4 PM",
-      "date": "Wed",
-      "hour": 16,
-      "temperature_f": 69,
-      "wind_speed": "5 mph",
-      "wind_direction": "SE",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "5 PM",
-      "date": "Wed",
-      "hour": 17,
-      "temperature_f": 67,
-      "wind_speed": "5 mph",
-      "wind_direction": "SE",
-      "short_forecast": "Sunny"
-    },
-    {
-      "time": "6 PM",
-      "date": "Wed",
-      "hour": 18,
-      "temperature_f": 65,
-      "wind_speed": "5 mph",
-      "wind_direction": "SE",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "7 PM",
-      "date": "Wed",
-      "hour": 19,
-      "temperature_f": 63,
-      "wind_speed": "0 mph",
-      "wind_direction": "",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "8 PM",
-      "date": "Wed",
-      "hour": 20,
-      "temperature_f": 63,
-      "wind_speed": "0 mph",
-      "wind_direction": "",
-      "short_forecast": "Mostly Clear"
-    },
-    {
-      "time": "9 PM",
-      "date": "Wed",
-      "hour": 21,
-      "temperature_f": 63,
-      "wind_speed": "0 mph",
-      "wind_direction": "",
-      "short_forecast": "Mostly Clear"
-    },
-    {
       "time": "10 PM",
       "date": "Wed",
       "hour": 22,
@@ -1519,6 +1456,69 @@
       "wind_speed": "5 mph",
       "wind_direction": "S",
       "short_forecast": "Slight Chance Light Rain"
+    },
+    {
+      "time": "10 PM",
+      "date": "Thu",
+      "hour": 22,
+      "temperature_f": 60,
+      "wind_speed": "5 mph",
+      "wind_direction": "SSE",
+      "short_forecast": "Light Rain Likely"
+    },
+    {
+      "time": "11 PM",
+      "date": "Thu",
+      "hour": 23,
+      "temperature_f": 61,
+      "wind_speed": "5 mph",
+      "wind_direction": "SSE",
+      "short_forecast": "Light Rain Likely"
+    },
+    {
+      "time": "12 AM",
+      "date": "Fri",
+      "hour": 0,
+      "temperature_f": 61,
+      "wind_speed": "5 mph",
+      "wind_direction": "SSE",
+      "short_forecast": "Light Rain Likely"
+    },
+    {
+      "time": "1 AM",
+      "date": "Fri",
+      "hour": 1,
+      "temperature_f": 61,
+      "wind_speed": "5 mph",
+      "wind_direction": "ESE",
+      "short_forecast": "Light Rain Likely"
+    },
+    {
+      "time": "2 AM",
+      "date": "Fri",
+      "hour": 2,
+      "temperature_f": 60,
+      "wind_speed": "5 mph",
+      "wind_direction": "ESE",
+      "short_forecast": "Light Rain Likely"
+    },
+    {
+      "time": "3 AM",
+      "date": "Fri",
+      "hour": 3,
+      "temperature_f": 60,
+      "wind_speed": "5 mph",
+      "wind_direction": "ESE",
+      "short_forecast": "Light Rain Likely"
+    },
+    {
+      "time": "4 AM",
+      "date": "Fri",
+      "hour": 4,
+      "temperature_f": 61,
+      "wind_speed": "5 mph",
+      "wind_direction": "ESE",
+      "short_forecast": "Light Rain Likely"
     }
   ]
 }
