@@ -1,14 +1,14 @@
 {
   "location": "Morro Bay, California",
   "date_display": "Saturday, November 21, 2026",
-  "updated_display": "12:01 PM PST",
+  "updated_display": "4:16 PM PST",
   "diablo": {
     "station": "46215",
     "name": "Diablo Canyon",
     "wave_height_ft": 4.3,
-    "period_sec": 10.0,
-    "direction_deg": 286.0,
-    "water_temp_f": 71.8
+    "period_sec": 17.0,
+    "direction_deg": 254.0,
+    "water_temp_f": 72.3
   },
   "offshore": {
     "station": "46011",
@@ -1248,42 +1248,6 @@
   ],
   "wind_forecast": [
     {
-      "time": "12 PM",
-      "date": "Sat",
-      "hour": 12,
-      "temperature_f": 60,
-      "wind_speed": "5 mph",
-      "wind_direction": "N",
-      "short_forecast": "Mostly Sunny"
-    },
-    {
-      "time": "1 PM",
-      "date": "Sat",
-      "hour": 13,
-      "temperature_f": 61,
-      "wind_speed": "10 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Mostly Sunny"
-    },
-    {
-      "time": "2 PM",
-      "date": "Sat",
-      "hour": 14,
-      "temperature_f": 62,
-      "wind_speed": "10 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Mostly Sunny"
-    },
-    {
-      "time": "3 PM",
-      "date": "Sat",
-      "hour": 15,
-      "temperature_f": 62,
-      "wind_speed": "10 mph",
-      "wind_direction": "NW",
-      "short_forecast": "Mostly Sunny"
-    },
-    {
       "time": "4 PM",
       "date": "Sat",
       "hour": 16,
@@ -1525,6 +1489,42 @@
       "wind_speed": "5 mph",
       "wind_direction": "N",
       "short_forecast": "Light Rain"
+    },
+    {
+      "time": "7 PM",
+      "date": "Sun",
+      "hour": 19,
+      "temperature_f": 56,
+      "wind_speed": "10 mph",
+      "wind_direction": "NE",
+      "short_forecast": "Light Rain"
+    },
+    {
+      "time": "8 PM",
+      "date": "Sun",
+      "hour": 20,
+      "temperature_f": 55,
+      "wind_speed": "10 mph",
+      "wind_direction": "NE",
+      "short_forecast": "Light Rain"
+    },
+    {
+      "time": "9 PM",
+      "date": "Sun",
+      "hour": 21,
+      "temperature_f": 54,
+      "wind_speed": "10 mph",
+      "wind_direction": "NE",
+      "short_forecast": "Light Rain"
+    },
+    {
+      "time": "10 PM",
+      "date": "Sun",
+      "hour": 22,
+      "temperature_f": 54,
+      "wind_speed": "5 mph",
+      "wind_direction": "NE",
+      "short_forecast": "Slight Chance Rain Showers"
     }
   ]
 }
